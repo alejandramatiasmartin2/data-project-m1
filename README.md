@@ -14,7 +14,6 @@ Spain	Data Scientist	Female	25	5%
 | ...           |  ...           |   ...   |
 
 
-Country | Job Title | Gender | Quantity | Percentage
---- | --- | ---
+Country | Job Title | Gender 
 Spain | Data Scientist | Male 
 Spain| Data Scientist | Female
