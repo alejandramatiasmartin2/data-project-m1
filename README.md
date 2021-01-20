@@ -1,19 +1,14 @@
 # Data project module 1
+## Instructions
 Data project module 1
 In this project we are going to create a Data Pipeline that retrieves the following table:
 
-Country	Job Title	Gender (*)	Quantity	Percentage
-Spain	Data Scientist	Male	25	5%
-Spain	Data Scientist	Female	25	5%
-...	...	...	...	...
+## Datasources
 
-| Country       | Job Title      | Gender  | Quantity  | Percentage  |  
-| ------------- |:-------------: | -----:  |   25.      | 5%
-| Spain         | Data Scientist | Male    | 25.         | 5%
-| Spain         | Data Scientist | Female  | ...        
-| ...           |  ...           |   ...   |
+There are 3 different datasources involved:
 
+Tables (.db). Here you can find the .db file with the main dataset.
 
-Country | Job Title | Gender 
-Spain | Data Scientist | Male 
-Spain| Data Scientist | Female
+API. We will use the API from the Open Skills Project.
+
+Web Scraping. Finally, we will need to retrieve information about country codes from Eurostat website.
