@@ -14,7 +14,7 @@ Spain	Data Scientist	Female	25	5%
 | ...           |  ...           |   ...   |
 
 
-Markdown | Less | Pretty
+Country | Job Title | Gender | Quantity | Percentage
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Spain | Data Scientist | Male 
+Spain| Data Scientist | Female
