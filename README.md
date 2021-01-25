@@ -3,6 +3,12 @@
 Data project module 1
 In this project we are going to create a Data Pipeline that retrieves the following table:
 
+| Country       | Job Title      | Gender | Quantity | Percentage |
+| :-----------: |:-------------: | :-----:| :-------:| :---------:|
+| Spain         | Data Scientist | Female | 25       | 5%         | 
+| Spain         | Data Scientist | Male   | 25       | 5%         |
+
+
 ## Datasources
 
 There are 3 different datasources involved:
