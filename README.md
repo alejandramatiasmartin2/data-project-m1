@@ -11,7 +11,7 @@ Bootcamp: Ironhack - Data Analytics Part Time Nov 2020
 Data project Module 1
 ---
 
-
+	![map](iworkoverseaspost1-1.jpg)
 
 ## Datasources
 
@@ -43,7 +43,6 @@ BeautifulSoup
 
 
 ## :file_folder: Folder structure
-```
 └── project
     ├── __trash__
     ├── .gitignore
@@ -72,6 +71,7 @@ BeautifulSoup
         ├── raw
         ├── processed
         └── results
+---
 
 ## :love_letter: Contact
 > Email: <alejandramatias32@gmail.com>
