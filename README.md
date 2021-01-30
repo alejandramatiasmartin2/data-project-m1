@@ -11,7 +11,7 @@ Bootcamp: Ironhack - Data Analytics Part Time Nov 2020
 Data project Module 1
 ---
 
-	![map](iworkoverseaspost1-1.jpg)
+	
 
 ## Datasources
 
