@@ -42,7 +42,7 @@ In order to achieve this, we are going to follow these steps:
 - [x] Web scrapping
 - [x] Merge dataframes
 - [ ] Provide two options to the final user to select when executing: get the table of all countries/specify one.
-- [ ] Create csv files containing the dataframes
+- [x] Create csv files containing the dataframes
 ___
 ### :computer: **Technology stack**
 - Python
