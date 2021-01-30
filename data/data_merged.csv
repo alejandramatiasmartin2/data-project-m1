@@ -1,0 +1,2641 @@
+,country_code,Job Title,Gender,Quantity,Percentage
+0,AT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,2,2%
+1,AT,Automatic Data Processing Planner,Female,1,1%
+2,AT,Automatic Data Processing Planner,Male,1,1%
+3,AT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,2,2%
+4,AT,Clinical Data Specialist,Male,1,1%
+5,AT,Computer or Data Processing Systems Consultant,Female,1,1%
+6,AT,Computer or Data Processing Systems Consultant,Male,2,2%
+7,AT,Crime Data Specialist,Male,1,1%
+8,AT,Data Administrator,Female,1,1%
+9,AT,Data Base Design Analyst,Female,1,1%
+10,AT,Data Base Design Analyst,Male,1,1%
+11,AT,Data Coder Operator,Male,1,1%
+12,AT,Data Communications Software Consultant,Female,1,1%
+13,AT,Data Communications Software Consultant,Male,1,1%
+14,AT,Data Coordinator,Male,2,2%
+15,AT,Data Entry Representative,Female,1,1%
+16,AT,Data Entry Specialist,Female,1,1%
+17,AT,Data Keyer,Male,1,1%
+18,AT,Data Management Associate,Male,1,1%
+19,AT,Data Management Information Technology Specialist,Female,1,1%
+20,AT,Data Officer,Male,2,2%
+21,AT,Data Processing Auditor,Female,2,2%
+22,AT,Data Processing Auditor,Male,1,1%
+23,AT,Data Processing Systems Project Planner,Male,1,1%
+24,AT,Data Security Analyst,Male,2,2%
+25,AT,Data Systems Manager,Female,1,1%
+26,AT,Data Warehouse Developer,Male,1,1%
+27,AT,Data Warehousing Engineer,Female,2,2%
+28,AT,Data Warehousing Engineer,Male,3,3%
+29,AT,Data Warehousing Manager,Female,1,1%
+30,AT,Database Administration Associate,Male,1,1%
+31,AT,Database Administration Manager,Male,1,1%
+32,AT,Database Architect,Male,1,1%
+33,AT,Database Coordinator,Male,1,1%
+34,AT,Database Design Analyst,Male,1,1%
+35,AT,Database Developer,Female,1,1%
+36,AT,Database Development and Administration Project Manager,Female,1,1%
+37,AT,Database Engineer,Female,1,1%
+38,AT,Database Engineer,Male,1,1%
+39,AT,Database Manager,Female,1,1%
+40,AT,Database Marketing Analyst,Male,1,1%
+41,AT,Database Modeler,Female,1,1%
+42,AT,Database Security Administrator,Female,1,1%
+43,AT,Database Security Administrator,Male,2,2%
+44,AT,Database Security Expert,Male,1,1%
+45,AT,Database Software Technician,Male,2,2%
+46,AT,Databases Computer Consultant,Male,1,1%
+47,AT,Director of Data Operations,Male,1,1%
+48,AT,Electronic Data Processing Auditor (EDP Auditor),Male,1,1%
+49,AT,Field Artillery Automated Tactical Data System Specialist,Female,1,1%
+50,AT,GPS Field Data Collector (Global Positioning System Field Data Collector),Male,1,1%
+51,AT,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,1,1%
+52,AT,Geographic Information Systems Data Manager (GIS Data Manager),Male,1,1%
+53,AT,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,1,1%
+54,AT,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,2,2%
+55,AT,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,2,2%
+56,AT,Internet Database Specialist,Male,1,1%
+57,AT,Maintenance Data Analyst,Female,1,1%
+58,AT,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Female,1,1%
+59,AT,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Male,1,1%
+60,AT,Not working,Female,29,30%
+61,AT,Not working,Male,30,31%
+62,BE,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,1,1%
+63,BE,Automatic Data Processing Planner,Male,2,2%
+64,BE,Automatic Data Processing Planner (ADP Planner),Male,1,1%
+65,BE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,2,2%
+66,BE,Clinical Data Associate,Female,2,2%
+67,BE,Clinical Data Associate,Male,1,1%
+68,BE,Clinical Data Coordinator,Male,1,1%
+69,BE,Crime Data Specialist,Female,1,1%
+70,BE,Data Administrator,Female,1,1%
+71,BE,Data Administrator,Male,2,2%
+72,BE,Data Architect,Female,1,1%
+73,BE,Data Architect,Male,2,2%
+74,BE,Data Base Design Analyst,Male,1,1%
+75,BE,Data Capture Specialist,Male,1,1%
+76,BE,Data Collector,Female,1,1%
+77,BE,Data Communications Analyst,Male,1,1%
+78,BE,Data Coordinator,Male,1,1%
+79,BE,Data Entry Associate,Female,1,1%
+80,BE,Data Entry Representative,Male,1,1%
+81,BE,Data Entry Specialist,Male,1,1%
+82,BE,Data Management Associate,Female,1,1%
+83,BE,Data Management Information Technology Specialist,Female,1,1%
+84,BE,Data Management Information Technology Specialist,Male,1,1%
+85,BE,Data Manager,Male,1,1%
+86,BE,Data Miner,Female,1,1%
+87,BE,Data Officer,Female,2,2%
+88,BE,Data Officer,Male,2,2%
+89,BE,Data Processing Consultant,Female,1,1%
+90,BE,Data Processing Manager,Female,1,1%
+91,BE,Data Processing Systems Analyst,Female,1,1%
+92,BE,Data Processing Systems Analyst,Male,1,1%
+93,BE,Data Processing Systems Project Planner,Male,2,2%
+94,BE,Data Recovery Planner,Male,1,1%
+95,BE,Data Scientist,Female,2,2%
+96,BE,Data Scientist,Male,2,2%
+97,BE,Data Security Administrator,Female,2,2%
+98,BE,Data Security Administrator,Male,1,1%
+99,BE,Data Security Analyst,Male,2,2%
+100,BE,Data Storage Specialist,Male,1,1%
+101,BE,Data Systems Manager,Female,1,1%
+102,BE,Data Warehouse Analyst,Female,1,1%
+103,BE,Data Warehouse Developer,Male,1,1%
+104,BE,Data Warehouse Specialist,Female,2,2%
+105,BE,Data Warehousing Manager,Female,2,2%
+106,BE,Database Administration Associate,Male,2,2%
+107,BE,Database Architect,Male,1,1%
+108,BE,Database Consultant,Female,1,1%
+109,BE,Database Consultant,Male,1,1%
+110,BE,Database Coordinator,Male,1,1%
+111,BE,Database Design Analyst,Male,1,1%
+112,BE,Database Designer,Male,2,2%
+113,BE,Database Development and Administration Project Manager,Male,1,1%
+114,BE,Database Engineer,Female,1,1%
+115,BE,Database Engineer,Male,2,2%
+116,BE,Database Management System Specialist (DBMS Specialist),Female,1,1%
+117,BE,Database Management System Specialist (DBMS Specialist),Male,1,1%
+118,BE,Database Manager,Female,2,2%
+119,BE,Database Manager,Male,1,1%
+120,BE,Database Marketing Analyst,Female,2,2%
+121,BE,Database Security Administrator,Male,1,1%
+122,BE,Database Software Technician,Female,1,1%
+123,BE,Database Tester,Female,1,1%
+124,BE,Database Tester,Male,1,1%
+125,BE,Director of Data Operations,Female,1,1%
+126,BE,Director of Data Operations,Male,2,2%
+127,BE,Electronic Data Processing Auditor (EDP Auditor),Male,1,1%
+128,BE,Field Artillery Automated Tactical Data System Specialist,Male,1,1%
+129,BE,Flight Data Technician,Female,1,1%
+130,BE,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+131,BE,Geographic Information Systems Data Manager (GIS Data Manager),Male,2,2%
+132,BE,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,2,2%
+133,BE,Head of Information Systems and Data Processing,Male,1,1%
+134,BE,Health Data Analyst,Male,3,3%
+135,BE,Log Data Technician,Male,1,1%
+136,BE,Marketing Database Analyst,Male,1,1%
+137,BE,Medical Data Analyst,Male,1,1%
+138,BE,Not working,Female,45,47%
+139,BE,Not working,Male,31,32%
+140,BE,Oracle Database Administrator (Oracle DBA),Female,1,1%
+141,BE,Reference Data Expert,Male,1,1%
+142,BE,SQL Database Administrator,Male,1,1%
+143,BG,Automatic Data Processing Planner,Female,1,1%
+144,BG,Automatic Data Processing Planner (ADP Planner),Male,1,1%
+145,BG,Business Database Analyst,Male,1,1%
+146,BG,Clinical Data Management Associate Director,Male,1,1%
+147,BG,Clinical Data Manager,Male,1,1%
+148,BG,Computer or Data Processing Systems Consultant,Male,1,1%
+149,BG,Data Abstractor,Female,1,1%
+150,BG,Data Administrator,Female,1,1%
+151,BG,Data Administrator,Male,1,1%
+152,BG,Data Architect,Female,2,2%
+153,BG,Data Base Design Analyst,Male,1,1%
+154,BG,Data Center Manager,Male,1,1%
+155,BG,Data Center Operator,Male,1,1%
+156,BG,Data Communications Analyst,Female,1,1%
+157,BG,Data Compiler,Female,1,1%
+158,BG,Data Control Assistant,Male,1,1%
+159,BG,Data Coordinator,Female,1,1%
+160,BG,Data Management Associate,Male,1,1%
+161,BG,Data Management Information Technology Specialist,Male,1,1%
+162,BG,Data Miner,Female,2,2%
+163,BG,Data Modeling Specialist,Female,1,1%
+164,BG,Data Officer,Female,1,1%
+165,BG,Data Operations Director,Female,1,1%
+166,BG,Data Processing Auditor,Female,1,1%
+167,BG,Data Processing Auditor,Male,1,1%
+168,BG,Data Processing Manager,Female,1,1%
+169,BG,Data Processing Manager,Male,2,2%
+170,BG,Data Processing Systems Analyst,Female,1,1%
+171,BG,Data Processing Systems Analyst,Male,1,1%
+172,BG,Data Recovery Planner,Female,1,1%
+173,BG,Data Reduction Technician,Male,1,1%
+174,BG,Data Security Administrator,Female,1,1%
+175,BG,Data Security Analyst,Female,1,1%
+176,BG,Data Storage Specialist,Female,1,1%
+177,BG,Data Systems Manager,Female,1,1%
+178,BG,Data Warehouse Architect,Female,1,1%
+179,BG,Data Warehouse Architect,Male,2,2%
+180,BG,Data Warehouse Developer,Female,1,1%
+181,BG,Data Warehouse Developer,Male,1,1%
+182,BG,Data Warehouse Specialist,Male,5,5%
+183,BG,Data Warehousing Engineer,Female,1,1%
+184,BG,Data Warehousing Specialist,Female,1,1%
+185,BG,Data Warehousing Specialist,Male,1,1%
+186,BG,Database Administration Associate,Female,1,1%
+187,BG,Database Administration Associate,Male,1,1%
+188,BG,Database Administration Manager,Female,1,1%
+189,BG,Database Analyst,Female,1,1%
+190,BG,Database Architect,Male,1,1%
+191,BG,Database Consultant,Female,1,1%
+192,BG,Database Coordinator,Male,1,1%
+193,BG,Database Design Analyst,Male,1,1%
+194,BG,Database Designer,Female,2,2%
+195,BG,Database Development Project Manager,Female,1,1%
+196,BG,Database Modeler,Male,2,2%
+197,BG,Database Security Administrator,Male,1,1%
+198,BG,Database Security Expert,Male,1,1%
+199,BG,Database Software Technician,Female,1,1%
+200,BG,Database Software Technician,Male,1,1%
+201,BG,Database Tester,Female,2,2%
+202,BG,Director of Data Operations,Male,1,1%
+203,BG,Electronic Data Processing Auditor (EDP Auditor),Male,1,1%
+204,BG,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,3,3%
+205,BG,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,1,1%
+206,BG,Geographic Information Systems Data Manager (GIS Data Manager),Male,1,1%
+207,BG,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,3,3%
+208,BG,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,1,1%
+209,BG,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,1,1%
+210,BG,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,1,1%
+211,BG,Head of Information Systems and Data Processing,Female,1,1%
+212,BG,Head of Information Systems and Data Processing,Male,2,2%
+213,BG,Internet Database Specialist,Male,4,4%
+214,BG,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Female,1,1%
+215,BG,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Male,1,1%
+216,BG,Not working,Female,26,27%
+217,BG,Not working,Male,19,20%
+218,BG,SCADA Technician (Supervisory Control and Data Acquisition Technician),Male,1,1%
+219,BG,SQL Database Administrator,Male,2,2%
+220,BG,Survey Data Technician,Male,1,1%
+221,CY,Clinical Trials Data Coordinator,Female,1,1%
+222,CY,Data Communications Analyst,Female,1,1%
+223,CY,Data Management Associate,Male,1,1%
+224,CY,Data Modeling Specialist,Male,1,1%
+225,CY,Data Systems Manager,Male,1,1%
+226,CY,Data Warehousing Specialist,Male,1,1%
+227,CY,Database Administrator (DBA),Male,1,1%
+228,CY,Head of Information Systems and Data Processing,Male,1,1%
+229,CY,Not working,Female,2,2%
+230,CY,Not working,Male,3,3%
+231,CZ,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,1,1%
+232,CZ,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,1,1%
+233,CZ,Automatic Data Processing Planner,Male,2,2%
+234,CZ,Automatic Data Processing Planner (ADP Planner),Female,1,1%
+235,CZ,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,1,1%
+236,CZ,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,2,2%
+237,CZ,Clinical Data Coordinator,Male,1,1%
+238,CZ,Computer or Data Processing Systems Consultant,Female,1,1%
+239,CZ,Computer or Data Processing Systems Consultant,Male,2,2%
+240,CZ,Data Acquisition Technician,Male,1,1%
+241,CZ,Data Administrator,Female,2,2%
+242,CZ,Data Architect,Female,1,1%
+243,CZ,Data Architect,Male,1,1%
+244,CZ,Data Center Operator,Male,1,1%
+245,CZ,Data Collection Technician,Female,1,1%
+246,CZ,Data Communications Analyst,Male,1,1%
+247,CZ,Data Communications Software Consultant,Female,1,1%
+248,CZ,Data Control Assistant,Female,1,1%
+249,CZ,Data Coordinator,Male,1,1%
+250,CZ,Data Entry Machine Operator,Female,1,1%
+251,CZ,Data Entry Specialist,Female,1,1%
+252,CZ,Data Keyer,Female,1,1%
+253,CZ,Data Management Associate,Female,1,1%
+254,CZ,Data Management Information Technology Specialist,Male,1,1%
+255,CZ,Data Manager,Female,1,1%
+256,CZ,Data Miner,Female,1,1%
+257,CZ,Data Modeling Specialist,Female,1,1%
+258,CZ,Data Modeling Specialist,Male,1,1%
+259,CZ,Data Officer,Female,2,2%
+260,CZ,Data Officer,Male,2,2%
+261,CZ,Data Operations Director,Female,2,2%
+262,CZ,Data Operations Director,Male,1,1%
+263,CZ,Data Processing Auditor,Male,1,1%
+264,CZ,Data Processing Auxiliary Equipment Operator,Female,1,1%
+265,CZ,Data Processing Equipment Repairer,Male,1,1%
+266,CZ,Data Processing Manager,Male,1,1%
+267,CZ,Data Processing Mechanic,Female,1,1%
+268,CZ,Data Processing Services Sales Representative,Female,1,1%
+269,CZ,Data Processing Systems Analyst,Male,3,3%
+270,CZ,Data Processing Systems Project Planner,Female,1,1%
+271,CZ,Data Processing Systems Project Planner,Male,1,1%
+272,CZ,Data Sciences Director,Male,1,1%
+273,CZ,Data Scientist,Male,1,1%
+274,CZ,Data Security Analyst,Female,1,1%
+275,CZ,Data Security Analyst,Male,1,1%
+276,CZ,Data Storage Specialist,Female,1,1%
+277,CZ,Data Storage Specialist,Male,2,2%
+278,CZ,Data Systems Manager,Male,1,1%
+279,CZ,Data Technician,Male,1,1%
+280,CZ,Data Warehouse Analyst,Female,1,1%
+281,CZ,Data Warehouse Analyst,Male,1,1%
+282,CZ,Data Warehouse Architect,Female,1,1%
+283,CZ,Data Warehouse Architect,Male,1,1%
+284,CZ,Data Warehouse Developer,Male,1,1%
+285,CZ,Data Warehousing Engineer,Male,1,1%
+286,CZ,Data Warehousing Manager,Female,1,1%
+287,CZ,Data Warehousing Manager,Male,1,1%
+288,CZ,Data Warehousing Specialist,Female,1,1%
+289,CZ,Database Administration Associate,Male,1,1%
+290,CZ,Database Administrator (DBA),Female,1,1%
+291,CZ,Database Architect,Male,2,2%
+292,CZ,Database Consultant,Female,1,1%
+293,CZ,Database Consultant,Male,2,2%
+294,CZ,Database Coordinator,Female,1,1%
+295,CZ,Database Coordinator,Male,1,1%
+296,CZ,Database Designer,Female,1,1%
+297,CZ,Database Development Project Manager,Male,1,1%
+298,CZ,Database Development and Administration Project Manager,Female,1,1%
+299,CZ,Database Engineer,Male,3,3%
+300,CZ,Database Management System Specialist (DBMS Specialist),Female,1,1%
+301,CZ,Database Marketing Analyst,Female,1,1%
+302,CZ,Database Security Administrator,Female,3,3%
+303,CZ,Database Security Expert,Female,1,1%
+304,CZ,Database Security Expert,Male,1,1%
+305,CZ,Database Software Technician,Female,2,2%
+306,CZ,Database Software Technician,Male,1,1%
+307,CZ,Database Specialist,Female,1,1%
+308,CZ,Database Tester,Male,2,2%
+309,CZ,Databases Computer Consultant,Female,1,1%
+310,CZ,Databases Computer Consultant,Male,1,1%
+311,CZ,Databases Software Consultant,Male,1,1%
+312,CZ,Director of Data Operations,Female,1,1%
+313,CZ,Director of Data Operations,Male,2,2%
+314,CZ,Electronic Data Processing Auditor (EDP Auditor),Female,1,1%
+315,CZ,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,1,1%
+316,CZ,Flight Test Data Acquisition Technician,Male,1,1%
+317,CZ,GPS Field Data Collector (Global Positioning System Field Data Collector),Female,1,1%
+318,CZ,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,1,1%
+319,CZ,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+320,CZ,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,2,2%
+321,CZ,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,1,1%
+322,CZ,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,1,1%
+323,CZ,Head of Information Systems and Data Processing,Male,3,3%
+324,CZ,Health Data Analyst,Female,1,1%
+325,CZ,Internet Database Specialist,Female,1,1%
+326,CZ,Internet Database Specialist,Male,3,3%
+327,CZ,Maintenance Data Analyst,Female,1,1%
+328,CZ,Marketing Database Analyst,Male,1,1%
+329,CZ,Micro Computer Data Processor,Male,1,1%
+330,CZ,Naval Tactical Data System--Combat Information Center Officer,Female,1,1%
+331,CZ,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Female,1,1%
+332,CZ,Not working,Female,34,35%
+333,CZ,Not working,Male,25,26%
+334,CZ,Oracle Database Administrator (Oracle DBA),Female,1,1%
+335,CZ,Oracle Database Administrator (Oracle DBA),Male,2,2%
+336,CZ,SCADA Technician (Supervisory Control and Data Acquisition Technician),Male,1,1%
+337,CZ,SQL Database Administrator,Male,1,1%
+338,DE,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,3,3%
+339,DE,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,4,4%
+340,DE,Automatic Data Processing Planner,Female,2,2%
+341,DE,Automatic Data Processing Planner,Male,7,7%
+342,DE,Automatic Data Processing Planner (ADP Planner),Female,5,5%
+343,DE,Automatic Data Processing Planner (ADP Planner),Male,8,8%
+344,DE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,4,4%
+345,DE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,5,5%
+346,DE,Business Database Analyst,Female,1,1%
+347,DE,Clinical Data Abstractor,Female,2,2%
+348,DE,Clinical Data Abstractor,Male,2,2%
+349,DE,Clinical Data Analyst,Female,2,2%
+350,DE,Clinical Data Associate,Male,1,1%
+351,DE,Clinical Data Coordinator,Male,3,3%
+352,DE,Clinical Data Management Associate Director,Male,3,3%
+353,DE,Clinical Data Management Manager (CDM Manager),Female,1,1%
+354,DE,Clinical Data Manager,Male,1,1%
+355,DE,Clinical Trials Data Coordinator,Male,1,1%
+356,DE,Computer or Data Processing Systems Consultant,Female,5,5%
+357,DE,Computer or Data Processing Systems Consultant,Male,7,7%
+358,DE,Crime Data Specialist,Female,1,1%
+359,DE,Customer Data Technician,Male,2,2%
+360,DE,Data Abstractor,Female,1,1%
+361,DE,Data Abstractor,Male,1,1%
+362,DE,Data Administrator,Female,4,4%
+363,DE,Data Administrator,Male,9,9%
+364,DE,Data Architect,Female,1,1%
+365,DE,Data Architect,Male,12,12%
+366,DE,Data Base Design Analyst,Female,4,4%
+367,DE,Data Base Design Analyst,Male,6,6%
+368,DE,Data Center Manager,Female,1,1%
+369,DE,Data Center Manager,Male,1,1%
+370,DE,Data Center Operator,Female,2,2%
+371,DE,Data Center Operator,Male,3,3%
+372,DE,Data Coder Operator,Male,1,1%
+373,DE,Data Collection Technician,Female,2,2%
+374,DE,Data Collection Technician,Male,1,1%
+375,DE,Data Communications Analyst,Female,7,7%
+376,DE,Data Communications Analyst,Male,6,6%
+377,DE,Data Communications Software Consultant,Female,2,2%
+378,DE,Data Communications Software Consultant,Male,8,8%
+379,DE,Data Compiler,Male,2,2%
+380,DE,Data Control Clerk Supervisor,Male,1,1%
+381,DE,Data Conversion Operator,Female,1,1%
+382,DE,Data Conversion Operator,Male,2,2%
+383,DE,Data Coordinator,Female,4,4%
+384,DE,Data Coordinator,Male,7,7%
+385,DE,Data Entry Machine Operator,Female,1,1%
+386,DE,Data Entry Representative,Female,1,1%
+387,DE,Data Entry Representative,Male,1,1%
+388,DE,Data Entry Supervisor,Male,2,2%
+389,DE,Data Entry Technician,Female,2,2%
+390,DE,Data Entry Technician,Male,1,1%
+391,DE,Data Input Clerk,Female,1,1%
+392,DE,Data Input Clerk,Male,1,1%
+393,DE,Data Keyer,Female,1,1%
+394,DE,Data Keyer,Male,1,1%
+395,DE,Data Management Associate,Male,5,5%
+396,DE,Data Management Information Technology Specialist,Female,5,5%
+397,DE,Data Management Information Technology Specialist,Male,6,6%
+398,DE,Data Management Manager,Female,1,1%
+399,DE,Data Manager,Female,1,1%
+400,DE,Data Miner,Male,8,8%
+401,DE,Data Modeler,Male,1,1%
+402,DE,Data Modeling Specialist,Female,5,5%
+403,DE,Data Modeling Specialist,Male,7,7%
+404,DE,Data Officer,Female,10,10%
+405,DE,Data Officer,Male,8,8%
+406,DE,Data Operations Director,Male,3,3%
+407,DE,Data Processing Auditor,Female,3,3%
+408,DE,Data Processing Auditor,Male,2,2%
+409,DE,Data Processing Auxiliary Equipment Operator,Male,2,2%
+410,DE,Data Processing Clerk,Male,1,1%
+411,DE,Data Processing Consultant,Female,4,4%
+412,DE,Data Processing Consultant,Male,6,6%
+413,DE,Data Processing Control Clerk,Female,1,1%
+414,DE,Data Processing Equipment Repairer,Male,1,1%
+415,DE,Data Processing Manager,Female,3,3%
+416,DE,Data Processing Manager,Male,8,8%
+417,DE,Data Processing Services Sales Representative,Female,1,1%
+418,DE,Data Processing Services Sales Representative,Male,3,3%
+419,DE,Data Processing Supervisor,Male,1,1%
+420,DE,Data Processing Systems Analyst,Female,4,4%
+421,DE,Data Processing Systems Analyst,Male,4,4%
+422,DE,Data Processing Systems Project Planner,Female,1,1%
+423,DE,Data Processing Systems Project Planner,Male,9,9%
+424,DE,Data Processor,Female,1,1%
+425,DE,Data Processor,Male,2,2%
+426,DE,Data Recovery Planner,Female,1,1%
+427,DE,Data Reduction Technician,Male,2,2%
+428,DE,Data Sciences Director,Female,1,1%
+429,DE,Data Sciences Director,Male,1,1%
+430,DE,Data Scientist,Female,2,2%
+431,DE,Data Scientist,Male,6,6%
+432,DE,Data Security Administrator,Female,5,5%
+433,DE,Data Security Administrator,Male,7,7%
+434,DE,Data Security Analyst,Female,2,2%
+435,DE,Data Security Analyst,Male,7,7%
+436,DE,Data Specialist,Female,1,1%
+437,DE,Data Specialist,Male,1,1%
+438,DE,Data Storage Specialist,Female,6,6%
+439,DE,Data Storage Specialist,Male,10,10%
+440,DE,Data Systems Manager,Female,4,4%
+441,DE,Data Systems Manager,Male,6,6%
+442,DE,Data Technician,Female,1,1%
+443,DE,Data Transcriber,Female,1,1%
+444,DE,Data Transcriber,Male,2,2%
+445,DE,Data Typist,Female,1,1%
+446,DE,Data Typist,Male,1,1%
+447,DE,Data Warehouse Analyst,Female,3,3%
+448,DE,Data Warehouse Analyst,Male,6,6%
+449,DE,Data Warehouse Architect,Female,4,4%
+450,DE,Data Warehouse Architect,Male,8,8%
+451,DE,Data Warehouse Developer,Female,6,6%
+452,DE,Data Warehouse Developer,Male,9,9%
+453,DE,Data Warehouse Specialist,Female,4,4%
+454,DE,Data Warehouse Specialist,Male,8,8%
+455,DE,Data Warehousing Engineer,Female,1,1%
+456,DE,Data Warehousing Engineer,Male,6,6%
+457,DE,Data Warehousing Manager,Female,4,4%
+458,DE,Data Warehousing Manager,Male,4,4%
+459,DE,Data Warehousing Specialist,Female,5,5%
+460,DE,Data Warehousing Specialist,Male,6,6%
+461,DE,Database Administration Associate,Female,4,4%
+462,DE,Database Administration Associate,Male,5,5%
+463,DE,Database Administration Manager,Female,6,6%
+464,DE,Database Administration Manager,Male,8,8%
+465,DE,Database Administration Project Manager,Male,3,3%
+466,DE,Database Administrator (DBA),Female,2,2%
+467,DE,Database Administrator (DBA),Male,2,2%
+468,DE,Database Analyst,Female,3,3%
+469,DE,Database Analyst,Male,3,3%
+470,DE,Database Architect,Female,4,4%
+471,DE,Database Architect,Male,5,5%
+472,DE,Database Consultant,Female,7,7%
+473,DE,Database Consultant,Male,6,6%
+474,DE,Database Coordinator,Female,2,2%
+475,DE,Database Coordinator,Male,7,7%
+476,DE,Database Design Analyst,Female,2,2%
+477,DE,Database Design Analyst,Male,2,2%
+478,DE,Database Designer,Female,2,2%
+479,DE,Database Designer,Male,3,3%
+480,DE,Database Developer,Female,1,1%
+481,DE,Database Developer,Male,1,1%
+482,DE,Database Development Project Manager,Male,1,1%
+483,DE,Database Development and Administration Project Manager,Female,3,3%
+484,DE,Database Development and Administration Project Manager,Male,9,9%
+485,DE,Database Engineer,Female,2,2%
+486,DE,Database Engineer,Male,11,11%
+487,DE,Database Management System Specialist (DBMS Specialist),Female,8,8%
+488,DE,Database Management System Specialist (DBMS Specialist),Male,7,7%
+489,DE,Database Manager,Female,2,2%
+490,DE,Database Manager,Male,9,9%
+491,DE,Database Marketing Analyst,Female,1,1%
+492,DE,Database Marketing Analyst,Male,7,7%
+493,DE,Database Modeler,Female,2,2%
+494,DE,Database Modeler,Male,9,9%
+495,DE,Database Programmer,Male,1,1%
+496,DE,Database Security Administrator,Female,2,2%
+497,DE,Database Security Administrator,Male,3,3%
+498,DE,Database Security Expert,Female,1,1%
+499,DE,Database Security Expert,Male,6,6%
+500,DE,Database Software Technician,Female,4,4%
+501,DE,Database Software Technician,Male,7,7%
+502,DE,Database Specialist,Female,2,2%
+503,DE,Database Specialist,Male,9,9%
+504,DE,Database Tester,Female,1,1%
+505,DE,Database Tester,Male,6,6%
+506,DE,Databases Computer Consultant,Female,2,2%
+507,DE,Databases Computer Consultant,Male,6,6%
+508,DE,Databases Software Consultant,Female,1,1%
+509,DE,Databases Software Consultant,Male,5,5%
+510,DE,Datastage Developer,Male,3,3%
+511,DE,Director of Data Operations,Female,5,5%
+512,DE,Director of Data Operations,Male,2,2%
+513,DE,Electronic Data Interchange System Developer (EDI System Developer),Female,8,8%
+514,DE,Electronic Data Interchange System Developer (EDI System Developer),Male,5,5%
+515,DE,Electronic Data Processing Auditor (EDP Auditor),Female,1,1%
+516,DE,Electronic Data Processing Auditor (EDP Auditor),Male,8,8%
+517,DE,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,6,6%
+518,DE,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,5,5%
+519,DE,Field Artillery Automated Tactical Data System Specialist,Male,1,1%
+520,DE,Field Traffic Data Technician,Male,2,2%
+521,DE,Flight Data Technician,Female,2,2%
+522,DE,Flight Data Technician,Male,2,2%
+523,DE,Flight Test Data Acquisition Technician,Male,2,2%
+524,DE,GPS Field Data Collector (Global Positioning System Field Data Collector),Female,1,1%
+525,DE,GPS Field Data Collector (Global Positioning System Field Data Collector),Male,3,3%
+526,DE,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,5,5%
+527,DE,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,5,5%
+528,DE,Geographic Information Systems Data Manager (GIS Data Manager),Female,4,4%
+529,DE,Geographic Information Systems Data Manager (GIS Data Manager),Male,6,6%
+530,DE,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,4,4%
+531,DE,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,11,11%
+532,DE,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,5,5%
+533,DE,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,6,6%
+534,DE,Head of Information Systems and Data Processing,Female,5,5%
+535,DE,Head of Information Systems and Data Processing,Male,7,7%
+536,DE,Health Data Analyst,Male,1,1%
+537,DE,Internet Database Specialist,Female,4,4%
+538,DE,Internet Database Specialist,Male,7,7%
+539,DE,LiDAR Data Analyst,Male,1,1%
+540,DE,Log Data Technician,Female,1,1%
+541,DE,Log Data Technician,Male,2,2%
+542,DE,Maintenance Data Analyst,Female,1,1%
+543,DE,Marketing Database Analyst,Female,1,1%
+544,DE,Marketing Database Analyst,Male,2,2%
+545,DE,Medical Data Analyst,Female,2,2%
+546,DE,Micro Computer Data Processor,Female,1,1%
+547,DE,Micro Computer Data Processor,Male,1,1%
+548,DE,Naval Tactical Data System--Combat Information Center Officer,Male,1,1%
+549,DE,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Female,1,1%
+550,DE,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Male,2,2%
+551,DE,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Female,1,1%
+552,DE,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Male,1,1%
+553,DE,Not working,Female,378,392%
+554,DE,Not working,Male,231,239%
+555,DE,Oracle Database Administrator (Oracle DBA),Female,5,5%
+556,DE,Oracle Database Administrator (Oracle DBA),Male,13,13%
+557,DE,SCADA Operator (Supervisory Control and Data Acquisition Operator),Female,2,2%
+558,DE,SCADA Operator (Supervisory Control and Data Acquisition Operator),Male,1,1%
+559,DE,SCADA Technician (Supervisory Control and Data Acquisition Technician),Male,1,1%
+560,DE,SQL Database Administrator,Female,1,1%
+561,DE,SQL Database Administrator,Male,4,4%
+562,DE,Survey Data Technician,Male,1,1%
+563,DE,Voice and Data Technician,Female,1,1%
+564,DE,Voice and Data Technician,Male,3,3%
+565,DK,Automatic Data Processing Planner,Female,1,1%
+566,DK,Automatic Data Processing Planner,Male,1,1%
+567,DK,Automatic Data Processing Planner (ADP Planner),Female,1,1%
+568,DK,Automatic Data Processing Planner (ADP Planner),Male,1,1%
+569,DK,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,1,1%
+570,DK,Clinical Data Manager,Male,1,1%
+571,DK,Data Architect,Male,1,1%
+572,DK,Data Base Design Analyst,Female,1,1%
+573,DK,Data Communications Software Consultant,Female,1,1%
+574,DK,Data Communications Software Consultant,Male,3,3%
+575,DK,Data Coordinator,Male,2,2%
+576,DK,Data Keyer,Male,1,1%
+577,DK,Data Management Information Technology Specialist,Female,1,1%
+578,DK,Data Manager,Male,1,1%
+579,DK,Data Officer,Female,2,2%
+580,DK,Data Officer,Male,2,2%
+581,DK,Data Operations Director,Male,1,1%
+582,DK,Data Processing Auditor,Male,1,1%
+583,DK,Data Processing Consultant,Female,1,1%
+584,DK,Data Processing Consultant,Male,1,1%
+585,DK,Data Processing Manager,Male,1,1%
+586,DK,Data Scientist,Male,1,1%
+587,DK,Data Storage Specialist,Female,1,1%
+588,DK,Data Storage Specialist,Male,1,1%
+589,DK,Data Systems Manager,Male,1,1%
+590,DK,Data Transcriber,Male,1,1%
+591,DK,Data Typist,Female,1,1%
+592,DK,Data Warehouse Analyst,Male,1,1%
+593,DK,Data Warehouse Architect,Male,2,2%
+594,DK,Data Warehouse Developer,Female,1,1%
+595,DK,Data Warehouse Specialist,Female,1,1%
+596,DK,Data Warehousing Specialist,Female,1,1%
+597,DK,Database Administration Associate,Female,1,1%
+598,DK,Database Consultant,Male,1,1%
+599,DK,Database Coordinator,Female,1,1%
+600,DK,Database Coordinator,Male,1,1%
+601,DK,Database Designer,Female,1,1%
+602,DK,Database Development and Administration Project Manager,Female,1,1%
+603,DK,Database Development and Administration Project Manager,Male,1,1%
+604,DK,Database Engineer,Female,1,1%
+605,DK,Database Management System Specialist (DBMS Specialist),Female,2,2%
+606,DK,Database Modeler,Male,1,1%
+607,DK,Database Security Expert,Female,1,1%
+608,DK,Database Security Expert,Male,1,1%
+609,DK,Database Specialist,Female,1,1%
+610,DK,Database Specialist,Male,2,2%
+611,DK,Database Tester,Female,1,1%
+612,DK,Database Tester,Male,1,1%
+613,DK,Databases Computer Consultant,Female,1,1%
+614,DK,Director of Data Operations,Male,1,1%
+615,DK,Electronic Data Interchange System Developer (EDI System Developer),Male,2,2%
+616,DK,Electronic Data Processing Auditor (EDP Auditor),Male,1,1%
+617,DK,Field Traffic Data Technician,Male,1,1%
+618,DK,Health Data Analyst,Male,1,1%
+619,DK,Internet Database Specialist,Female,1,1%
+620,DK,Medical Data Analyst,Male,1,1%
+621,DK,Not working,Female,30,31%
+622,DK,Not working,Male,18,19%
+623,DK,Oracle Database Administrator (Oracle DBA),Female,1,1%
+624,DK,Oracle Database Administrator (Oracle DBA),Male,2,2%
+625,DK,SQL Database Administrator,Male,1,1%
+626,DK,Survey Data Technician,Female,2,2%
+627,EE,Data Base Design Analyst,Female,1,1%
+628,EE,Data Collection Technician,Male,1,1%
+629,EE,Data Entry Supervisor,Male,1,1%
+630,EE,Data Management Information Technology Specialist,Male,1,1%
+631,EE,Data Operations Director,Female,1,1%
+632,EE,Data Processing Supervisor,Male,1,1%
+633,EE,Database Administration Manager,Male,1,1%
+634,EE,Database Manager,Male,1,1%
+635,EE,Director of Data Operations,Female,1,1%
+636,EE,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,1,1%
+637,EE,Not working,Female,4,4%
+638,EE,Not working,Male,4,4%
+639,ES,Analytical Data Miner,Male,1,1%
+640,ES,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,5,5%
+641,ES,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,6,6%
+642,ES,Automatic Data Processing Planner,Female,5,5%
+643,ES,Automatic Data Processing Planner,Male,4,4%
+644,ES,Automatic Data Processing Planner (ADP Planner),Female,3,3%
+645,ES,Automatic Data Processing Planner (ADP Planner),Male,8,8%
+646,ES,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,3,3%
+647,ES,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,4,4%
+648,ES,Business Database Analyst,Female,1,1%
+649,ES,Business Database Analyst,Male,1,1%
+650,ES,Clinical Data Abstractor,Male,1,1%
+651,ES,Clinical Data Associate,Female,1,1%
+652,ES,Clinical Data Associate,Male,1,1%
+653,ES,Clinical Data Management Manager (CDM Manager),Female,1,1%
+654,ES,Clinical Data Management Manager (CDM Manager),Male,2,2%
+655,ES,Clinical Data Manager,Male,2,2%
+656,ES,Clinical Data Specialist,Female,1,1%
+657,ES,Computer or Data Processing Systems Consultant,Female,4,4%
+658,ES,Computer or Data Processing Systems Consultant,Male,5,5%
+659,ES,Crime Data Specialist,Male,1,1%
+660,ES,Data Administrator,Male,2,2%
+661,ES,Data Analysis Assistant,Male,1,1%
+662,ES,Data Analyst,Female,1,1%
+663,ES,Data Architect,Female,3,3%
+664,ES,Data Architect,Male,5,5%
+665,ES,Data Base Design Analyst,Female,4,4%
+666,ES,Data Base Design Analyst,Male,2,2%
+667,ES,Data Collector,Female,1,1%
+668,ES,Data Communications Analyst,Female,2,2%
+669,ES,Data Communications Analyst,Male,3,3%
+670,ES,Data Communications Software Consultant,Female,6,6%
+671,ES,Data Communications Software Consultant,Male,4,4%
+672,ES,Data Communications Technician,Female,1,1%
+673,ES,Data Communications Technician,Male,1,1%
+674,ES,Data Compiler,Female,2,2%
+675,ES,Data Compiler,Male,2,2%
+676,ES,Data Control Clerk Supervisor,Male,1,1%
+677,ES,Data Conversion Operator,Female,1,1%
+678,ES,Data Coordinator,Female,3,3%
+679,ES,Data Coordinator,Male,7,7%
+680,ES,Data Entry Associate,Female,1,1%
+681,ES,Data Entry Machine Operator,Female,2,2%
+682,ES,Data Entry Machine Operator,Male,1,1%
+683,ES,Data Entry Operator,Male,1,1%
+684,ES,Data Entry Representative,Female,1,1%
+685,ES,Data Entry Specialist,Female,1,1%
+686,ES,Data Entry Supervisor,Male,1,1%
+687,ES,Data Examination Clerk,Male,1,1%
+688,ES,Data Input Clerk,Male,1,1%
+689,ES,Data Keyer,Male,1,1%
+690,ES,Data Management Associate,Female,4,4%
+691,ES,Data Management Associate,Male,6,6%
+692,ES,Data Management Information Technology Specialist,Female,2,2%
+693,ES,Data Management Information Technology Specialist,Male,3,3%
+694,ES,Data Management Manager,Male,1,1%
+695,ES,Data Miner,Female,3,3%
+696,ES,Data Miner,Male,2,2%
+697,ES,Data Modeler,Male,1,1%
+698,ES,Data Modeling Specialist,Female,5,5%
+699,ES,Data Modeling Specialist,Male,4,4%
+700,ES,Data Officer,Female,1,1%
+701,ES,Data Officer,Male,1,1%
+702,ES,Data Operations Director,Female,2,2%
+703,ES,Data Operations Director,Male,2,2%
+704,ES,Data Processing Auditor,Female,1,1%
+705,ES,Data Processing Auditor,Male,3,3%
+706,ES,Data Processing Auxiliary Equipment Operator,Male,2,2%
+707,ES,Data Processing Clerk,Male,3,3%
+708,ES,Data Processing Consultant,Female,3,3%
+709,ES,Data Processing Consultant,Male,3,3%
+710,ES,Data Processing Equipment Repairer,Female,1,1%
+711,ES,Data Processing Equipment Repairer,Male,3,3%
+712,ES,Data Processing Manager,Female,3,3%
+713,ES,Data Processing Manager,Male,5,5%
+714,ES,Data Processing Mechanic,Male,1,1%
+715,ES,Data Processing Supervisor,Female,1,1%
+716,ES,Data Processing Supervisor,Male,1,1%
+717,ES,Data Processing Systems Analyst,Female,2,2%
+718,ES,Data Processing Systems Analyst,Male,8,8%
+719,ES,Data Processing Systems Project Planner,Female,4,4%
+720,ES,Data Processing Systems Project Planner,Male,4,4%
+721,ES,Data Recovery Planner,Male,2,2%
+722,ES,Data Reduction Technician,Female,4,4%
+723,ES,Data Reviewer,Female,1,1%
+724,ES,Data Sciences Director,Female,3,3%
+725,ES,Data Sciences Director,Male,2,2%
+726,ES,Data Scientist,Female,2,2%
+727,ES,Data Scientist,Male,5,5%
+728,ES,Data Security Administrator,Female,6,6%
+729,ES,Data Security Administrator,Male,5,5%
+730,ES,Data Security Analyst,Female,6,6%
+731,ES,Data Security Analyst,Male,4,4%
+732,ES,Data Storage Specialist,Female,1,1%
+733,ES,Data Storage Specialist,Male,4,4%
+734,ES,Data Systems Manager,Female,4,4%
+735,ES,Data Systems Manager,Male,7,7%
+736,ES,Data Technician,Male,2,2%
+737,ES,Data Transcriber,Female,1,1%
+738,ES,Data Transcriber,Male,1,1%
+739,ES,Data Typist,Female,1,1%
+740,ES,Data Warehouse Analyst,Female,4,4%
+741,ES,Data Warehouse Analyst,Male,4,4%
+742,ES,Data Warehouse Architect,Female,5,5%
+743,ES,Data Warehouse Architect,Male,4,4%
+744,ES,Data Warehouse Developer,Male,2,2%
+745,ES,Data Warehouse Specialist,Female,5,5%
+746,ES,Data Warehouse Specialist,Male,4,4%
+747,ES,Data Warehousing Engineer,Female,4,4%
+748,ES,Data Warehousing Engineer,Male,1,1%
+749,ES,Data Warehousing Manager,Female,4,4%
+750,ES,Data Warehousing Manager,Male,1,1%
+751,ES,Data Warehousing Specialist,Female,1,1%
+752,ES,Data Warehousing Specialist,Male,2,2%
+753,ES,Database Administration Associate,Female,3,3%
+754,ES,Database Administration Associate,Male,4,4%
+755,ES,Database Administration Manager,Female,1,1%
+756,ES,Database Administration Manager,Male,7,7%
+757,ES,Database Administration Project Manager,Female,2,2%
+758,ES,Database Architect,Female,2,2%
+759,ES,Database Architect,Male,6,6%
+760,ES,Database Consultant,Female,1,1%
+761,ES,Database Consultant,Male,2,2%
+762,ES,Database Coordinator,Female,8,8%
+763,ES,Database Coordinator,Male,4,4%
+764,ES,Database Design Analyst,Female,4,4%
+765,ES,Database Designer,Male,5,5%
+766,ES,Database Developer,Female,1,1%
+767,ES,Database Development Project Manager,Female,1,1%
+768,ES,Database Development Project Manager,Male,1,1%
+769,ES,Database Development and Administration Project Manager,Female,6,6%
+770,ES,Database Development and Administration Project Manager,Male,7,7%
+771,ES,Database Engineer,Female,6,6%
+772,ES,Database Engineer,Male,5,5%
+773,ES,Database Management System Specialist (DBMS Specialist),Female,4,4%
+774,ES,Database Management System Specialist (DBMS Specialist),Male,9,9%
+775,ES,Database Manager,Female,2,2%
+776,ES,Database Manager,Male,7,7%
+777,ES,Database Marketing Analyst,Female,3,3%
+778,ES,Database Marketing Analyst,Male,3,3%
+779,ES,Database Modeler,Female,1,1%
+780,ES,Database Modeler,Male,1,1%
+781,ES,Database Security Administrator,Female,4,4%
+782,ES,Database Security Administrator,Male,4,4%
+783,ES,Database Security Expert,Female,3,3%
+784,ES,Database Security Expert,Male,5,5%
+785,ES,Database Software Technician,Female,2,2%
+786,ES,Database Software Technician,Male,6,6%
+787,ES,Database Specialist,Female,2,2%
+788,ES,Database Specialist,Male,3,3%
+789,ES,Database Technician,Male,1,1%
+790,ES,Database Tester,Male,3,3%
+791,ES,Databases Computer Consultant,Female,2,2%
+792,ES,Databases Computer Consultant,Male,3,3%
+793,ES,Databases Software Consultant,Female,3,3%
+794,ES,Databases Software Consultant,Male,4,4%
+795,ES,Datastage Developer,Male,1,1%
+796,ES,Director of Data Operations,Female,5,5%
+797,ES,Director of Data Operations,Male,3,3%
+798,ES,Electronic Data Interchange System Developer (EDI System Developer),Female,3,3%
+799,ES,Electronic Data Interchange System Developer (EDI System Developer),Male,6,6%
+800,ES,Electronic Data Processing Auditor (EDP Auditor),Female,3,3%
+801,ES,Electronic Data Processing Auditor (EDP Auditor),Male,3,3%
+802,ES,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,4,4%
+803,ES,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,1,1%
+804,ES,Field Artillery Automated Tactical Data System Specialist,Female,1,1%
+805,ES,Field Artillery Automated Tactical Data System Specialist,Male,1,1%
+806,ES,Field Traffic Data Technician,Male,1,1%
+807,ES,Flight Data Technician,Male,1,1%
+808,ES,Flight Test Data Acquisition Technician,Female,1,1%
+809,ES,Flight Test Data Acquisition Technician,Male,2,2%
+810,ES,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,4,4%
+811,ES,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,5,5%
+812,ES,Geographic Information Systems Data Manager (GIS Data Manager),Female,4,4%
+813,ES,Geographic Information Systems Data Manager (GIS Data Manager),Male,6,6%
+814,ES,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,2,2%
+815,ES,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,3,3%
+816,ES,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,2,2%
+817,ES,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,6,6%
+818,ES,Head of Information Systems and Data Processing,Female,3,3%
+819,ES,Head of Information Systems and Data Processing,Male,5,5%
+820,ES,Health Data Analyst,Male,2,2%
+821,ES,Internet Database Specialist,Female,2,2%
+822,ES,Internet Database Specialist,Male,1,1%
+823,ES,LiDAR Data Analyst,Female,1,1%
+824,ES,LiDAR Data Analyst,Male,1,1%
+825,ES,Maintenance Data Analyst,Male,1,1%
+826,ES,Marketing Database Analyst,Male,1,1%
+827,ES,Medical Data Analyst,Male,1,1%
+828,ES,Micro Computer Data Processor,Female,2,2%
+829,ES,Micro Computer Data Processor,Male,1,1%
+830,ES,Naval Tactical Data System--Combat Information Center Officer,Female,1,1%
+831,ES,Naval Tactical Data System--Combat Information Center Officer,Male,2,2%
+832,ES,Not working,Female,248,257%
+833,ES,Not working,Male,175,181%
+834,ES,"Operations Officer, Afloat (Naval Tactical Data Systems)",Male,1,1%
+835,ES,Oracle Database Administrator (Oracle DBA),Female,3,3%
+836,ES,Oracle Database Administrator (Oracle DBA),Male,4,4%
+837,ES,Reference Data Expert,Female,1,1%
+838,ES,Reference Data Expert,Male,1,1%
+839,ES,SCADA Operator (Supervisory Control and Data Acquisition Operator),Male,1,1%
+840,ES,SCADA Technician (Supervisory Control and Data Acquisition Technician),Female,1,1%
+841,ES,SQL Database Administrator,Female,3,3%
+842,ES,SQL Database Administrator,Male,5,5%
+843,ES,Scientific Database Curator,Male,2,2%
+844,ES,Survey Data Technician,Female,1,1%
+845,ES,Voice and Data Technician,Female,1,1%
+846,ES,Voice and Data Technician,Male,1,1%
+847,ES,Weight in Motion Field Data Collection Technician,Female,2,2%
+848,ES,Weight in Motion Field Data Collection Technician,Male,2,2%
+849,FI,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,1,1%
+850,FI,Automatic Data Processing Planner (ADP Planner),Female,1,1%
+851,FI,Clinical Data Management Manager (CDM Manager),Female,1,1%
+852,FI,Computer or Data Processing Systems Consultant,Female,1,1%
+853,FI,Computer or Data Processing Systems Consultant,Male,1,1%
+854,FI,Data Administrator,Male,1,1%
+855,FI,Data Analysis Assistant,Male,1,1%
+856,FI,Data Architect,Female,1,1%
+857,FI,Data Collection Technician,Male,1,1%
+858,FI,Data Communications Analyst,Female,1,1%
+859,FI,Data Coordinator,Female,2,2%
+860,FI,Data Coordinator,Male,1,1%
+861,FI,Data Entry Representative,Male,1,1%
+862,FI,Data Management Information Technology Specialist,Female,1,1%
+863,FI,Data Manager,Male,1,1%
+864,FI,Data Modeling Specialist,Female,2,2%
+865,FI,Data Officer,Female,1,1%
+866,FI,Data Officer,Male,2,2%
+867,FI,Data Operations Director,Male,1,1%
+868,FI,Data Processing Auditor,Male,2,2%
+869,FI,Data Processing Consultant,Female,1,1%
+870,FI,Data Processing Manager,Male,1,1%
+871,FI,Data Processing Mechanic,Male,1,1%
+872,FI,Data Processing Systems Analyst,Male,1,1%
+873,FI,Data Reduction Technician,Female,1,1%
+874,FI,Data Reduction Technician,Male,1,1%
+875,FI,Data Scientist,Male,1,1%
+876,FI,Data Security Analyst,Male,1,1%
+877,FI,Data Storage Specialist,Female,1,1%
+878,FI,Data Transcriber,Female,1,1%
+879,FI,Data Warehouse Developer,Male,1,1%
+880,FI,Data Warehousing Engineer,Male,1,1%
+881,FI,Data Warehousing Manager,Male,1,1%
+882,FI,Data Warehousing Specialist,Female,1,1%
+883,FI,Database Administration Associate,Female,1,1%
+884,FI,Database Administration Manager,Female,1,1%
+885,FI,Database Administration Manager,Male,2,2%
+886,FI,Database Consultant,Female,1,1%
+887,FI,Database Coordinator,Male,1,1%
+888,FI,Database Development Project Manager,Female,1,1%
+889,FI,Database Development and Administration Project Manager,Male,1,1%
+890,FI,Database Manager,Female,1,1%
+891,FI,Database Marketing Analyst,Male,3,3%
+892,FI,Database Software Technician,Male,2,2%
+893,FI,Database Specialist,Male,1,1%
+894,FI,Database Tester,Female,1,1%
+895,FI,Database Tester,Male,1,1%
+896,FI,Databases Computer Consultant,Female,1,1%
+897,FI,Databases Computer Consultant,Male,1,1%
+898,FI,Databases Software Consultant,Male,1,1%
+899,FI,Datastage Developer,Female,1,1%
+900,FI,Director of Data Operations,Male,2,2%
+901,FI,Electronic Data Processing Auditor (EDP Auditor),Male,2,2%
+902,FI,Field Artillery Automated Tactical Data System Specialist,Male,1,1%
+903,FI,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,2,2%
+904,FI,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+905,FI,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,1,1%
+906,FI,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,2,2%
+907,FI,Internet Database Specialist,Male,1,1%
+908,FI,Naval Tactical Data System--Combat Information Center Officer,Female,1,1%
+909,FI,Not working,Female,24,25%
+910,FI,Not working,Male,14,15%
+911,FI,Oracle Database Administrator (Oracle DBA),Female,1,1%
+912,FI,Oracle Database Administrator (Oracle DBA),Male,1,1%
+913,FI,SCADA Technician (Supervisory Control and Data Acquisition Technician),Female,1,1%
+914,FR,Analytical Data Miner,Female,1,1%
+915,FR,Analytical Data Miner,Male,1,1%
+916,FR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,1,1%
+917,FR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,10,10%
+918,FR,Automatic Data Processing Planner,Female,6,6%
+919,FR,Automatic Data Processing Planner,Male,7,7%
+920,FR,Automatic Data Processing Planner (ADP Planner),Female,4,4%
+921,FR,Automatic Data Processing Planner (ADP Planner),Male,5,5%
+922,FR,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,2,2%
+923,FR,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,9,9%
+924,FR,Business Database Analyst,Female,2,2%
+925,FR,Business Database Analyst,Male,1,1%
+926,FR,Clinical Data Analyst,Male,2,2%
+927,FR,Clinical Data Associate,Female,2,2%
+928,FR,Clinical Data Coordinator,Male,2,2%
+929,FR,Clinical Data Management Associate Director,Female,1,1%
+930,FR,Clinical Data Management Associate Director,Male,1,1%
+931,FR,Clinical Data Management Manager (CDM Manager),Female,2,2%
+932,FR,Clinical Data Management Manager (CDM Manager),Male,2,2%
+933,FR,Clinical Data Manager,Female,1,1%
+934,FR,Clinical Data Manager,Male,1,1%
+935,FR,Clinical Data Specialist,Male,1,1%
+936,FR,Clinical Trials Data Coordinator,Female,2,2%
+937,FR,Clinical Trials Data Coordinator,Male,1,1%
+938,FR,Computer or Data Processing Systems Consultant,Female,1,1%
+939,FR,Computer or Data Processing Systems Consultant,Male,13,13%
+940,FR,Crime Data Specialist,Female,1,1%
+941,FR,Customer Data Technician,Male,1,1%
+942,FR,Data Administrator,Female,3,3%
+943,FR,Data Administrator,Male,3,3%
+944,FR,Data Architect,Female,5,5%
+945,FR,Data Architect,Male,8,8%
+946,FR,Data Base Design Analyst,Female,3,3%
+947,FR,Data Base Design Analyst,Male,7,7%
+948,FR,Data Capture Specialist,Male,1,1%
+949,FR,Data Coder Operator,Male,2,2%
+950,FR,Data Collection Technician,Female,3,3%
+951,FR,Data Collector,Female,1,1%
+952,FR,Data Communications Analyst,Female,2,2%
+953,FR,Data Communications Analyst,Male,7,7%
+954,FR,Data Communications Software Consultant,Female,3,3%
+955,FR,Data Communications Software Consultant,Male,6,6%
+956,FR,Data Communications Technician,Female,1,1%
+957,FR,Data Communications Technician,Male,3,3%
+958,FR,Data Control Assistant,Male,1,1%
+959,FR,Data Control Clerk Supervisor,Male,1,1%
+960,FR,Data Coordinator,Female,5,5%
+961,FR,Data Coordinator,Male,7,7%
+962,FR,Data Entry Clerk,Female,1,1%
+963,FR,Data Entry Clerk,Male,3,3%
+964,FR,Data Entry Machine Operator,Female,2,2%
+965,FR,Data Entry Representative,Female,1,1%
+966,FR,Data Entry Representative,Male,3,3%
+967,FR,Data Entry Specialist,Female,2,2%
+968,FR,Data Entry Supervisor,Female,1,1%
+969,FR,Data Input Clerk,Male,1,1%
+970,FR,Data Management Associate,Female,4,4%
+971,FR,Data Management Associate,Male,10,10%
+972,FR,Data Management Information Technology Specialist,Male,4,4%
+973,FR,Data Management Manager,Male,1,1%
+974,FR,Data Manager,Female,1,1%
+975,FR,Data Miner,Female,4,4%
+976,FR,Data Miner,Male,8,8%
+977,FR,Data Modeler,Female,1,1%
+978,FR,Data Modeler,Male,1,1%
+979,FR,Data Modeling Specialist,Female,3,3%
+980,FR,Data Modeling Specialist,Male,11,11%
+981,FR,Data Officer,Female,7,7%
+982,FR,Data Officer,Male,8,8%
+983,FR,Data Operations Director,Female,2,2%
+984,FR,Data Operations Director,Male,4,4%
+985,FR,Data Processing Auditor,Female,3,3%
+986,FR,Data Processing Auditor,Male,4,4%
+987,FR,Data Processing Consultant,Male,5,5%
+988,FR,Data Processing Manager,Female,2,2%
+989,FR,Data Processing Manager,Male,7,7%
+990,FR,Data Processing Systems Analyst,Female,3,3%
+991,FR,Data Processing Systems Analyst,Male,7,7%
+992,FR,Data Processing Systems Project Planner,Female,2,2%
+993,FR,Data Processing Systems Project Planner,Male,5,5%
+994,FR,Data Recovery Planner,Female,2,2%
+995,FR,Data Reduction Technician,Male,1,1%
+996,FR,Data Sciences Director,Male,1,1%
+997,FR,Data Scientist,Female,4,4%
+998,FR,Data Scientist,Male,3,3%
+999,FR,Data Security Administrator,Female,5,5%
+1000,FR,Data Security Administrator,Male,7,7%
+1001,FR,Data Security Analyst,Female,3,3%
+1002,FR,Data Security Analyst,Male,4,4%
+1003,FR,Data Specialist,Male,1,1%
+1004,FR,Data Storage Specialist,Female,1,1%
+1005,FR,Data Storage Specialist,Male,8,8%
+1006,FR,Data Systems Manager,Female,2,2%
+1007,FR,Data Systems Manager,Male,4,4%
+1008,FR,Data Technician,Female,1,1%
+1009,FR,Data Transcriber,Female,2,2%
+1010,FR,Data Transcriber,Male,1,1%
+1011,FR,Data Typist,Male,1,1%
+1012,FR,Data Warehouse Analyst,Female,4,4%
+1013,FR,Data Warehouse Analyst,Male,6,6%
+1014,FR,Data Warehouse Architect,Female,4,4%
+1015,FR,Data Warehouse Architect,Male,5,5%
+1016,FR,Data Warehouse Developer,Female,1,1%
+1017,FR,Data Warehouse Developer,Male,4,4%
+1018,FR,Data Warehouse Specialist,Female,5,5%
+1019,FR,Data Warehouse Specialist,Male,6,6%
+1020,FR,Data Warehousing Engineer,Female,3,3%
+1021,FR,Data Warehousing Engineer,Male,3,3%
+1022,FR,Data Warehousing Manager,Female,1,1%
+1023,FR,Data Warehousing Manager,Male,8,8%
+1024,FR,Data Warehousing Specialist,Female,3,3%
+1025,FR,Data Warehousing Specialist,Male,4,4%
+1026,FR,Database Administration Associate,Female,4,4%
+1027,FR,Database Administration Associate,Male,6,6%
+1028,FR,Database Administration Manager,Female,1,1%
+1029,FR,Database Administration Manager,Male,1,1%
+1030,FR,Database Administration Project Manager,Male,1,1%
+1031,FR,Database Analyst,Female,1,1%
+1032,FR,Database Analyst,Male,2,2%
+1033,FR,Database Architect,Female,6,6%
+1034,FR,Database Architect,Male,5,5%
+1035,FR,Database Consultant,Female,9,9%
+1036,FR,Database Consultant,Male,5,5%
+1037,FR,Database Coordinator,Female,4,4%
+1038,FR,Database Coordinator,Male,11,11%
+1039,FR,Database Design Analyst,Female,4,4%
+1040,FR,Database Design Analyst,Male,4,4%
+1041,FR,Database Designer,Female,2,2%
+1042,FR,Database Designer,Male,6,6%
+1043,FR,Database Developer,Male,1,1%
+1044,FR,Database Development Project Manager,Male,1,1%
+1045,FR,Database Development and Administration Project Manager,Female,3,3%
+1046,FR,Database Development and Administration Project Manager,Male,7,7%
+1047,FR,Database Engineer,Female,2,2%
+1048,FR,Database Engineer,Male,7,7%
+1049,FR,Database Management System Specialist (DBMS Specialist),Female,1,1%
+1050,FR,Database Management System Specialist (DBMS Specialist),Male,3,3%
+1051,FR,Database Manager,Female,7,7%
+1052,FR,Database Manager,Male,3,3%
+1053,FR,Database Marketing Analyst,Female,6,6%
+1054,FR,Database Marketing Analyst,Male,6,6%
+1055,FR,Database Modeler,Female,3,3%
+1056,FR,Database Modeler,Male,10,10%
+1057,FR,Database Programmer,Female,2,2%
+1058,FR,Database Programmer,Male,1,1%
+1059,FR,Database Security Administrator,Female,1,1%
+1060,FR,Database Security Administrator,Male,7,7%
+1061,FR,Database Security Expert,Female,3,3%
+1062,FR,Database Security Expert,Male,4,4%
+1063,FR,Database Software Technician,Female,4,4%
+1064,FR,Database Software Technician,Male,9,9%
+1065,FR,Database Specialist,Female,2,2%
+1066,FR,Database Specialist,Male,6,6%
+1067,FR,Database Tester,Female,4,4%
+1068,FR,Database Tester,Male,7,7%
+1069,FR,Databases Computer Consultant,Female,4,4%
+1070,FR,Databases Computer Consultant,Male,3,3%
+1071,FR,Databases Software Consultant,Female,3,3%
+1072,FR,Databases Software Consultant,Male,3,3%
+1073,FR,Datastage Developer,Male,1,1%
+1074,FR,Director of Data Operations,Female,5,5%
+1075,FR,Director of Data Operations,Male,11,11%
+1076,FR,Electronic Data Interchange System Developer (EDI System Developer),Female,4,4%
+1077,FR,Electronic Data Interchange System Developer (EDI System Developer),Male,5,5%
+1078,FR,Electronic Data Processing Auditor (EDP Auditor),Female,2,2%
+1079,FR,Electronic Data Processing Auditor (EDP Auditor),Male,5,5%
+1080,FR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,3,3%
+1081,FR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,3,3%
+1082,FR,Field Traffic Data Technician,Male,2,2%
+1083,FR,Flight Test Data Acquisition Technician,Female,1,1%
+1084,FR,GPS Field Data Collector (Global Positioning System Field Data Collector),Female,1,1%
+1085,FR,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,3,3%
+1086,FR,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,9,9%
+1087,FR,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+1088,FR,Geographic Information Systems Data Manager (GIS Data Manager),Male,5,5%
+1089,FR,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,4,4%
+1090,FR,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,5,5%
+1091,FR,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,1,1%
+1092,FR,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,3,3%
+1093,FR,Head of Information Systems and Data Processing,Female,6,6%
+1094,FR,Head of Information Systems and Data Processing,Male,6,6%
+1095,FR,Internet Database Specialist,Female,5,5%
+1096,FR,Internet Database Specialist,Male,5,5%
+1097,FR,Log Data Technician,Female,2,2%
+1098,FR,Log Data Technician,Male,2,2%
+1099,FR,Maintenance Data Analyst,Female,2,2%
+1100,FR,Marketing Database Analyst,Female,1,1%
+1101,FR,Medical Data Analyst,Female,2,2%
+1102,FR,Micro Computer Data Processor,Male,1,1%
+1103,FR,Naval Tactical Data System--Combat Information Center Officer,Female,1,1%
+1104,FR,Naval Tactical Data System--Combat Information Center Officer,Male,1,1%
+1105,FR,Not working,Female,341,353%
+1106,FR,Not working,Male,194,200%
+1107,FR,"Operations Officer, Afloat (Naval Tactical Data Systems)",Female,1,1%
+1108,FR,Oracle Database Administrator (Oracle DBA),Female,5,5%
+1109,FR,Oracle Database Administrator (Oracle DBA),Male,7,7%
+1110,FR,Reference Data Expert,Male,1,1%
+1111,FR,SCADA Operator (Supervisory Control and Data Acquisition Operator),Female,2,2%
+1112,FR,SCADA Operator (Supervisory Control and Data Acquisition Operator),Male,1,1%
+1113,FR,SCADA Technician (Supervisory Control and Data Acquisition Technician),Female,1,1%
+1114,FR,SCADA Technician (Supervisory Control and Data Acquisition Technician),Male,1,1%
+1115,FR,SQL Database Administrator,Female,1,1%
+1116,FR,SQL Database Administrator,Male,2,2%
+1117,FR,Scientific Database Curator,Female,1,1%
+1118,FR,Scientific Database Curator,Male,1,1%
+1119,FR,Survey Data Technician,Female,1,1%
+1120,FR,Voice and Data Technician,Male,1,1%
+1121,GB,Analytical Data Miner,Female,1,1%
+1122,GB,Analytical Data Miner,Male,1,1%
+1123,GB,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,3,3%
+1124,GB,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,7,7%
+1125,GB,Automatic Data Processing Planner,Female,4,4%
+1126,GB,Automatic Data Processing Planner,Male,5,5%
+1127,GB,Automatic Data Processing Planner (ADP Planner),Female,3,3%
+1128,GB,Automatic Data Processing Planner (ADP Planner),Male,3,3%
+1129,GB,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,10,10%
+1130,GB,Business Database Analyst,Male,1,1%
+1131,GB,Clinical Data Associate,Female,1,1%
+1132,GB,Clinical Data Management Associate Director,Female,1,1%
+1133,GB,Clinical Data Manager,Male,1,1%
+1134,GB,Clinical Data Specialist,Female,1,1%
+1135,GB,Computer or Data Processing Systems Consultant,Female,5,5%
+1136,GB,Computer or Data Processing Systems Consultant,Male,8,8%
+1137,GB,Crime Data Specialist,Male,1,1%
+1138,GB,Customer Data Technician,Female,4,4%
+1139,GB,Customer Data Technician,Male,1,1%
+1140,GB,Data Abstractor,Female,1,1%
+1141,GB,Data Acquisition Technician,Female,2,2%
+1142,GB,Data Acquisition Technician,Male,1,1%
+1143,GB,Data Administrator,Female,6,6%
+1144,GB,Data Administrator,Male,7,7%
+1145,GB,Data Analysis Assistant,Male,2,2%
+1146,GB,Data Analyst,Female,2,2%
+1147,GB,Data Analyst,Male,1,1%
+1148,GB,Data Architect,Female,5,5%
+1149,GB,Data Architect,Male,5,5%
+1150,GB,Data Base Design Analyst,Male,5,5%
+1151,GB,Data Center Manager,Female,1,1%
+1152,GB,Data Center Operator,Female,1,1%
+1153,GB,Data Collection Technician,Female,1,1%
+1154,GB,Data Collector,Male,1,1%
+1155,GB,Data Communications Analyst,Female,2,2%
+1156,GB,Data Communications Analyst,Male,3,3%
+1157,GB,Data Communications Software Consultant,Female,3,3%
+1158,GB,Data Communications Software Consultant,Male,7,7%
+1159,GB,Data Compiler,Female,1,1%
+1160,GB,Data Compiler,Male,1,1%
+1161,GB,Data Conversion Operator,Male,1,1%
+1162,GB,Data Coordinator,Female,2,2%
+1163,GB,Data Coordinator,Male,7,7%
+1164,GB,Data Entry Associate,Female,1,1%
+1165,GB,Data Entry Associate,Male,2,2%
+1166,GB,Data Entry Clerk,Female,1,1%
+1167,GB,Data Entry Machine Operator,Male,1,1%
+1168,GB,Data Entry Operator,Female,3,3%
+1169,GB,Data Entry Operator,Male,1,1%
+1170,GB,Data Entry Representative,Female,1,1%
+1171,GB,Data Entry Technician,Female,1,1%
+1172,GB,Data Examination Clerk,Male,2,2%
+1173,GB,Data Input Clerk,Female,3,3%
+1174,GB,Data Keyer,Female,1,1%
+1175,GB,Data Management Associate,Female,2,2%
+1176,GB,Data Management Associate,Male,3,3%
+1177,GB,Data Management Information Technology Specialist,Female,2,2%
+1178,GB,Data Management Information Technology Specialist,Male,1,1%
+1179,GB,Data Management Manager,Male,1,1%
+1180,GB,Data Manager,Male,2,2%
+1181,GB,Data Miner,Female,4,4%
+1182,GB,Data Miner,Male,3,3%
+1183,GB,Data Modeler,Female,1,1%
+1184,GB,Data Modeler,Male,1,1%
+1185,GB,Data Modeling Specialist,Female,5,5%
+1186,GB,Data Modeling Specialist,Male,5,5%
+1187,GB,Data Officer,Female,3,3%
+1188,GB,Data Officer,Male,5,5%
+1189,GB,Data Operations Director,Female,2,2%
+1190,GB,Data Operations Director,Male,3,3%
+1191,GB,Data Processing Auditor,Female,2,2%
+1192,GB,Data Processing Auditor,Male,6,6%
+1193,GB,Data Processing Auxiliary Equipment Operator,Male,1,1%
+1194,GB,Data Processing Consultant,Female,3,3%
+1195,GB,Data Processing Consultant,Male,2,2%
+1196,GB,Data Processing Control Clerk,Female,1,1%
+1197,GB,Data Processing Manager,Female,5,5%
+1198,GB,Data Processing Manager,Male,3,3%
+1199,GB,Data Processing Mechanic,Male,1,1%
+1200,GB,Data Processing Services Sales Representative,Male,1,1%
+1201,GB,Data Processing Supervisor,Female,1,1%
+1202,GB,Data Processing Systems Analyst,Female,4,4%
+1203,GB,Data Processing Systems Analyst,Male,8,8%
+1204,GB,Data Processing Systems Project Planner,Female,3,3%
+1205,GB,Data Processing Systems Project Planner,Male,2,2%
+1206,GB,Data Processor,Female,3,3%
+1207,GB,Data Processor,Male,2,2%
+1208,GB,Data Recovery Planner,Male,2,2%
+1209,GB,Data Reduction Technician,Female,1,1%
+1210,GB,Data Reviewer,Female,1,1%
+1211,GB,Data Reviewer,Male,1,1%
+1212,GB,Data Sciences Director,Male,1,1%
+1213,GB,Data Scientist,Female,1,1%
+1214,GB,Data Scientist,Male,7,7%
+1215,GB,Data Security Administrator,Male,4,4%
+1216,GB,Data Security Analyst,Female,2,2%
+1217,GB,Data Security Analyst,Male,7,7%
+1218,GB,Data Specialist,Female,1,1%
+1219,GB,Data Storage Specialist,Female,4,4%
+1220,GB,Data Storage Specialist,Male,2,2%
+1221,GB,Data Systems Manager,Female,1,1%
+1222,GB,Data Systems Manager,Male,9,9%
+1223,GB,Data Technician,Female,1,1%
+1224,GB,Data Typist,Female,2,2%
+1225,GB,Data Typist,Male,1,1%
+1226,GB,Data Warehouse Analyst,Female,3,3%
+1227,GB,Data Warehouse Analyst,Male,5,5%
+1228,GB,Data Warehouse Architect,Female,5,5%
+1229,GB,Data Warehouse Architect,Male,7,7%
+1230,GB,Data Warehouse Developer,Female,2,2%
+1231,GB,Data Warehouse Developer,Male,5,5%
+1232,GB,Data Warehouse Specialist,Female,2,2%
+1233,GB,Data Warehouse Specialist,Male,6,6%
+1234,GB,Data Warehousing Engineer,Female,1,1%
+1235,GB,Data Warehousing Engineer,Male,3,3%
+1236,GB,Data Warehousing Manager,Female,2,2%
+1237,GB,Data Warehousing Manager,Male,2,2%
+1238,GB,Data Warehousing Specialist,Female,3,3%
+1239,GB,Data Warehousing Specialist,Male,4,4%
+1240,GB,Database Administration Associate,Female,5,5%
+1241,GB,Database Administration Associate,Male,8,8%
+1242,GB,Database Administration Manager,Female,4,4%
+1243,GB,Database Administration Manager,Male,3,3%
+1244,GB,Database Administration Project Manager,Female,1,1%
+1245,GB,Database Administration Project Manager,Male,2,2%
+1246,GB,Database Administrator (DBA),Male,1,1%
+1247,GB,Database Analyst,Female,1,1%
+1248,GB,Database Analyst,Male,1,1%
+1249,GB,Database Architect,Female,1,1%
+1250,GB,Database Architect,Male,8,8%
+1251,GB,Database Consultant,Female,3,3%
+1252,GB,Database Consultant,Male,7,7%
+1253,GB,Database Coordinator,Male,8,8%
+1254,GB,Database Design Analyst,Female,3,3%
+1255,GB,Database Design Analyst,Male,6,6%
+1256,GB,Database Designer,Female,6,6%
+1257,GB,Database Designer,Male,6,6%
+1258,GB,Database Developer,Male,1,1%
+1259,GB,Database Development Project Manager,Male,1,1%
+1260,GB,Database Development and Administration Project Manager,Female,1,1%
+1261,GB,Database Development and Administration Project Manager,Male,4,4%
+1262,GB,Database Engineer,Female,3,3%
+1263,GB,Database Engineer,Male,8,8%
+1264,GB,Database Management System Specialist (DBMS Specialist),Female,4,4%
+1265,GB,Database Management System Specialist (DBMS Specialist),Male,4,4%
+1266,GB,Database Manager,Female,6,6%
+1267,GB,Database Manager,Male,6,6%
+1268,GB,Database Marketing Analyst,Female,3,3%
+1269,GB,Database Marketing Analyst,Male,2,2%
+1270,GB,Database Modeler,Female,5,5%
+1271,GB,Database Modeler,Male,5,5%
+1272,GB,Database Programmer,Female,1,1%
+1273,GB,Database Security Administrator,Female,3,3%
+1274,GB,Database Security Administrator,Male,3,3%
+1275,GB,Database Security Expert,Female,4,4%
+1276,GB,Database Security Expert,Male,6,6%
+1277,GB,Database Software Technician,Female,3,3%
+1278,GB,Database Software Technician,Male,3,3%
+1279,GB,Database Specialist,Female,2,2%
+1280,GB,Database Specialist,Male,5,5%
+1281,GB,Database Technician,Male,1,1%
+1282,GB,Database Tester,Female,9,9%
+1283,GB,Database Tester,Male,5,5%
+1284,GB,Databases Computer Consultant,Female,1,1%
+1285,GB,Databases Computer Consultant,Male,4,4%
+1286,GB,Databases Software Consultant,Female,2,2%
+1287,GB,Databases Software Consultant,Male,2,2%
+1288,GB,Director of Data Operations,Female,1,1%
+1289,GB,Director of Data Operations,Male,4,4%
+1290,GB,Electronic Data Interchange System Developer (EDI System Developer),Female,3,3%
+1291,GB,Electronic Data Interchange System Developer (EDI System Developer),Male,5,5%
+1292,GB,Electronic Data Processing Auditor (EDP Auditor),Female,2,2%
+1293,GB,Electronic Data Processing Auditor (EDP Auditor),Male,3,3%
+1294,GB,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,5,5%
+1295,GB,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,3,3%
+1296,GB,Field Artillery Automated Tactical Data System Specialist,Male,1,1%
+1297,GB,Field Traffic Data Technician,Female,2,2%
+1298,GB,Field Traffic Data Technician,Male,1,1%
+1299,GB,Flight Data Technician,Male,1,1%
+1300,GB,Flight Test Data Acquisition Technician,Male,2,2%
+1301,GB,GPS Field Data Collector (Global Positioning System Field Data Collector),Female,1,1%
+1302,GB,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,4,4%
+1303,GB,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,4,4%
+1304,GB,Geographic Information Systems Data Manager (GIS Data Manager),Female,2,2%
+1305,GB,Geographic Information Systems Data Manager (GIS Data Manager),Male,2,2%
+1306,GB,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,7,7%
+1307,GB,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,5,5%
+1308,GB,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,2,2%
+1309,GB,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,5,5%
+1310,GB,Head of Information Systems and Data Processing,Female,6,6%
+1311,GB,Head of Information Systems and Data Processing,Male,6,6%
+1312,GB,Internet Database Specialist,Female,4,4%
+1313,GB,Internet Database Specialist,Male,5,5%
+1314,GB,LiDAR Data Analyst,Male,2,2%
+1315,GB,Log Data Technician,Male,1,1%
+1316,GB,Maintenance Data Analyst,Female,1,1%
+1317,GB,Maintenance Data Analyst,Male,1,1%
+1318,GB,Marketing Database Analyst,Female,1,1%
+1319,GB,Marketing Database Analyst,Male,2,2%
+1320,GB,Medical Data Analyst,Female,2,2%
+1321,GB,Medical Data Analyst,Male,2,2%
+1322,GB,Micro Computer Data Processor,Female,1,1%
+1323,GB,Naval Tactical Data System--Combat Information Center Officer,Female,2,2%
+1324,GB,Naval Tactical Data System--Combat Information Center Officer,Male,2,2%
+1325,GB,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Female,1,1%
+1326,GB,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Male,1,1%
+1327,GB,Not working,Female,352,365%
+1328,GB,Not working,Male,206,213%
+1329,GB,Oracle Database Administrator (Oracle DBA),Female,2,2%
+1330,GB,Oracle Database Administrator (Oracle DBA),Male,7,7%
+1331,GB,SCADA Operator (Supervisory Control and Data Acquisition Operator),Female,1,1%
+1332,GB,SCADA Technician (Supervisory Control and Data Acquisition Technician),Male,1,1%
+1333,GB,SQL Database Administrator,Female,3,3%
+1334,GB,SQL Database Administrator,Male,5,5%
+1335,GB,Survey Data Technician,Male,1,1%
+1336,GR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,2,2%
+1337,GR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,1,1%
+1338,GR,Automatic Data Processing Planner,Male,1,1%
+1339,GR,Automatic Data Processing Planner (ADP Planner),Female,2,2%
+1340,GR,Automatic Data Processing Planner (ADP Planner),Male,1,1%
+1341,GR,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,3,3%
+1342,GR,Clinical Data Abstractor,Female,1,1%
+1343,GR,Clinical Data Abstractor,Male,1,1%
+1344,GR,Clinical Data Associate,Female,1,1%
+1345,GR,Clinical Data Management Manager (CDM Manager),Male,2,2%
+1346,GR,Computer or Data Processing Systems Consultant,Female,1,1%
+1347,GR,Customer Data Technician,Male,1,1%
+1348,GR,Data Abstractor,Female,1,1%
+1349,GR,Data Abstractor,Male,1,1%
+1350,GR,Data Administrator,Female,1,1%
+1351,GR,Data Administrator,Male,1,1%
+1352,GR,Data Architect,Male,3,3%
+1353,GR,Data Base Design Analyst,Female,1,1%
+1354,GR,Data Communications Analyst,Male,1,1%
+1355,GR,Data Communications Software Consultant,Female,2,2%
+1356,GR,Data Communications Software Consultant,Male,1,1%
+1357,GR,Data Communications Technician,Male,1,1%
+1358,GR,Data Coordinator,Male,1,1%
+1359,GR,Data Entry Clerk,Female,1,1%
+1360,GR,Data Entry Technician,Male,1,1%
+1361,GR,Data Examination Clerk,Male,1,1%
+1362,GR,Data Keyer,Male,1,1%
+1363,GR,Data Management Information Technology Specialist,Male,3,3%
+1364,GR,Data Miner,Female,2,2%
+1365,GR,Data Miner,Male,1,1%
+1366,GR,Data Modeling Specialist,Female,1,1%
+1367,GR,Data Modeling Specialist,Male,2,2%
+1368,GR,Data Officer,Female,2,2%
+1369,GR,Data Officer,Male,1,1%
+1370,GR,Data Processing Consultant,Female,1,1%
+1371,GR,Data Processing Consultant,Male,1,1%
+1372,GR,Data Processing Manager,Female,1,1%
+1373,GR,Data Processing Systems Analyst,Male,1,1%
+1374,GR,Data Processing Systems Project Planner,Female,1,1%
+1375,GR,Data Processor,Female,1,1%
+1376,GR,Data Scientist,Female,1,1%
+1377,GR,Data Scientist,Male,1,1%
+1378,GR,Data Security Administrator,Male,2,2%
+1379,GR,Data Security Analyst,Male,2,2%
+1380,GR,Data Storage Specialist,Female,1,1%
+1381,GR,Data Systems Manager,Male,1,1%
+1382,GR,Data Warehouse Analyst,Female,1,1%
+1383,GR,Data Warehouse Analyst,Male,1,1%
+1384,GR,Data Warehouse Architect,Female,1,1%
+1385,GR,Data Warehouse Developer,Female,1,1%
+1386,GR,Data Warehouse Developer,Male,1,1%
+1387,GR,Data Warehouse Specialist,Male,2,2%
+1388,GR,Data Warehousing Engineer,Female,2,2%
+1389,GR,Data Warehousing Engineer,Male,1,1%
+1390,GR,Data Warehousing Specialist,Male,3,3%
+1391,GR,Database Administration Associate,Female,1,1%
+1392,GR,Database Administration Associate,Male,1,1%
+1393,GR,Database Administration Manager,Female,1,1%
+1394,GR,Database Administration Manager,Male,1,1%
+1395,GR,Database Administration Project Manager,Male,1,1%
+1396,GR,Database Architect,Male,1,1%
+1397,GR,Database Consultant,Female,1,1%
+1398,GR,Database Consultant,Male,1,1%
+1399,GR,Database Coordinator,Male,4,4%
+1400,GR,Database Design Analyst,Female,1,1%
+1401,GR,Database Designer,Male,2,2%
+1402,GR,Database Engineer,Male,2,2%
+1403,GR,Database Management System Specialist (DBMS Specialist),Female,1,1%
+1404,GR,Database Manager,Female,1,1%
+1405,GR,Database Manager,Male,1,1%
+1406,GR,Database Marketing Analyst,Male,1,1%
+1407,GR,Database Modeler,Female,1,1%
+1408,GR,Database Modeler,Male,1,1%
+1409,GR,Database Programmer,Female,1,1%
+1410,GR,Database Security Expert,Female,2,2%
+1411,GR,Database Software Technician,Male,1,1%
+1412,GR,Database Specialist,Female,1,1%
+1413,GR,Database Specialist,Male,1,1%
+1414,GR,Database Tester,Female,1,1%
+1415,GR,Database Tester,Male,1,1%
+1416,GR,Databases Computer Consultant,Female,1,1%
+1417,GR,Databases Computer Consultant,Male,1,1%
+1418,GR,Electronic Data Interchange System Developer (EDI System Developer),Male,1,1%
+1419,GR,Electronic Data Processing Auditor (EDP Auditor),Female,1,1%
+1420,GR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,2,2%
+1421,GR,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,3,3%
+1422,GR,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+1423,GR,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,2,2%
+1424,GR,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,1,1%
+1425,GR,Internet Database Specialist,Male,3,3%
+1426,GR,Log Data Technician,Male,1,1%
+1427,GR,Micro Computer Data Processor,Female,1,1%
+1428,GR,Micro Computer Data Processor,Male,1,1%
+1429,GR,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Male,1,1%
+1430,GR,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Female,2,2%
+1431,GR,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Male,1,1%
+1432,GR,Not working,Female,51,53%
+1433,GR,Not working,Male,39,40%
+1434,GR,Oracle Database Administrator (Oracle DBA),Female,2,2%
+1435,GR,SCADA Technician (Supervisory Control and Data Acquisition Technician),Female,1,1%
+1436,GR,SQL Database Administrator,Female,1,1%
+1437,GR,SQL Database Administrator,Male,2,2%
+1438,GR,Weight in Motion Field Data Collection Technician,Male,1,1%
+1439,HR,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,1,1%
+1440,HR,Clinical Data Abstractor,Male,1,1%
+1441,HR,Clinical Data Management Associate Director,Male,1,1%
+1442,HR,Computer or Data Processing Systems Consultant,Female,1,1%
+1443,HR,Computer or Data Processing Systems Consultant,Male,1,1%
+1444,HR,Data Administrator,Male,1,1%
+1445,HR,Data Analysis Assistant,Male,1,1%
+1446,HR,Data Coordinator,Male,1,1%
+1447,HR,Data Entry Associate,Female,1,1%
+1448,HR,Data Management Associate,Male,1,1%
+1449,HR,Data Management Information Technology Specialist,Male,1,1%
+1450,HR,Data Modeling Specialist,Male,1,1%
+1451,HR,Data Officer,Female,1,1%
+1452,HR,Data Operations Director,Male,1,1%
+1453,HR,Data Processing Manager,Female,1,1%
+1454,HR,Data Processing Systems Project Planner,Male,1,1%
+1455,HR,Data Security Administrator,Male,2,2%
+1456,HR,Data Storage Specialist,Female,1,1%
+1457,HR,Data Storage Specialist,Male,1,1%
+1458,HR,Data Systems Manager,Female,1,1%
+1459,HR,Data Systems Manager,Male,1,1%
+1460,HR,Data Warehouse Developer,Male,1,1%
+1461,HR,Data Warehouse Specialist,Female,1,1%
+1462,HR,Database Coordinator,Female,1,1%
+1463,HR,Database Design Analyst,Female,1,1%
+1464,HR,Database Design Analyst,Male,1,1%
+1465,HR,Database Designer,Male,1,1%
+1466,HR,Database Engineer,Male,1,1%
+1467,HR,Database Modeler,Female,1,1%
+1468,HR,Database Modeler,Male,1,1%
+1469,HR,Database Security Administrator,Female,1,1%
+1470,HR,Database Security Administrator,Male,2,2%
+1471,HR,Database Security Expert,Male,1,1%
+1472,HR,Database Specialist,Male,1,1%
+1473,HR,Database Tester,Male,1,1%
+1474,HR,Electronic Data Interchange System Developer (EDI System Developer),Male,1,1%
+1475,HR,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,1,1%
+1476,HR,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,1,1%
+1477,HR,Geographic Information Systems Data Manager (GIS Data Manager),Male,2,2%
+1478,HR,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,1,1%
+1479,HR,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,1,1%
+1480,HR,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,1,1%
+1481,HR,Head of Information Systems and Data Processing,Male,1,1%
+1482,HR,Internet Database Specialist,Female,2,2%
+1483,HR,Not working,Female,20,21%
+1484,HR,Not working,Male,18,19%
+1485,HR,"Operations Officer, Afloat (Naval Tactical Data Systems)",Female,1,1%
+1486,HU,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,1,1%
+1487,HU,Automatic Data Processing Planner,Male,1,1%
+1488,HU,Automatic Data Processing Planner (ADP Planner),Female,2,2%
+1489,HU,Automatic Data Processing Planner (ADP Planner),Male,2,2%
+1490,HU,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,1,1%
+1491,HU,Customer Data Technician,Female,1,1%
+1492,HU,Data Acquisition Technician,Male,1,1%
+1493,HU,Data Administrator,Female,2,2%
+1494,HU,Data Administrator,Male,2,2%
+1495,HU,Data Analysis Assistant,Male,1,1%
+1496,HU,Data Architect,Female,2,2%
+1497,HU,Data Base Design Analyst,Female,2,2%
+1498,HU,Data Capture Clerk,Female,1,1%
+1499,HU,Data Capture Specialist,Male,1,1%
+1500,HU,Data Collection Technician,Female,1,1%
+1501,HU,Data Communications Software Consultant,Female,1,1%
+1502,HU,Data Conversion Operator,Female,1,1%
+1503,HU,Data Coordinator,Female,1,1%
+1504,HU,Data Coordinator,Male,2,2%
+1505,HU,Data Entry Machine Operator,Male,1,1%
+1506,HU,Data Entry Supervisor,Male,1,1%
+1507,HU,Data Entry Technician,Male,1,1%
+1508,HU,Data Keyer,Male,1,1%
+1509,HU,Data Management Associate,Female,1,1%
+1510,HU,Data Management Associate,Male,2,2%
+1511,HU,Data Management Information Technology Specialist,Male,2,2%
+1512,HU,Data Miner,Female,2,2%
+1513,HU,Data Miner,Male,3,3%
+1514,HU,Data Modeling Specialist,Female,1,1%
+1515,HU,Data Modeling Specialist,Male,1,1%
+1516,HU,Data Operations Director,Female,1,1%
+1517,HU,Data Processing Auditor,Female,1,1%
+1518,HU,Data Processing Auditor,Male,1,1%
+1519,HU,Data Processing Auxiliary Equipment Operator,Female,1,1%
+1520,HU,Data Processing Manager,Female,1,1%
+1521,HU,Data Processing Services Sales Representative,Female,2,2%
+1522,HU,Data Processing Services Sales Representative,Male,1,1%
+1523,HU,Data Processing Supervisor,Male,1,1%
+1524,HU,Data Processing Systems Analyst,Female,1,1%
+1525,HU,Data Processing Systems Analyst,Male,1,1%
+1526,HU,Data Processing Systems Project Planner,Male,1,1%
+1527,HU,Data Processor,Female,1,1%
+1528,HU,Data Specialist,Male,2,2%
+1529,HU,Data Storage Specialist,Female,1,1%
+1530,HU,Data Storage Specialist,Male,2,2%
+1531,HU,Data Warehouse Analyst,Female,1,1%
+1532,HU,Data Warehouse Analyst,Male,1,1%
+1533,HU,Data Warehouse Architect,Male,1,1%
+1534,HU,Data Warehouse Developer,Female,1,1%
+1535,HU,Data Warehouse Specialist,Female,1,1%
+1536,HU,Data Warehouse Specialist,Male,3,3%
+1537,HU,Data Warehousing Engineer,Male,1,1%
+1538,HU,Data Warehousing Manager,Male,1,1%
+1539,HU,Data Warehousing Specialist,Male,1,1%
+1540,HU,Database Administration Associate,Female,2,2%
+1541,HU,Database Administration Associate,Male,1,1%
+1542,HU,Database Administration Manager,Female,1,1%
+1543,HU,Database Administration Manager,Male,1,1%
+1544,HU,Database Analyst,Female,1,1%
+1545,HU,Database Consultant,Female,2,2%
+1546,HU,Database Coordinator,Female,2,2%
+1547,HU,Database Coordinator,Male,1,1%
+1548,HU,Database Design Analyst,Male,1,1%
+1549,HU,Database Designer,Male,1,1%
+1550,HU,Database Developer,Male,1,1%
+1551,HU,Database Engineer,Male,2,2%
+1552,HU,Database Management System Specialist (DBMS Specialist),Male,2,2%
+1553,HU,Database Manager,Male,1,1%
+1554,HU,Database Marketing Analyst,Female,1,1%
+1555,HU,Database Marketing Analyst,Male,1,1%
+1556,HU,Database Modeler,Male,1,1%
+1557,HU,Database Programmer,Female,1,1%
+1558,HU,Database Security Administrator,Male,1,1%
+1559,HU,Database Software Technician,Female,1,1%
+1560,HU,Database Software Technician,Male,1,1%
+1561,HU,Database Tester,Male,1,1%
+1562,HU,Databases Computer Consultant,Male,2,2%
+1563,HU,Databases Software Consultant,Female,1,1%
+1564,HU,Databases Software Consultant,Male,1,1%
+1565,HU,Datastage Developer,Male,1,1%
+1566,HU,Director of Data Operations,Female,1,1%
+1567,HU,Director of Data Operations,Male,1,1%
+1568,HU,Electronic Data Interchange System Developer (EDI System Developer),Female,1,1%
+1569,HU,Electronic Data Processing Auditor (EDP Auditor),Female,1,1%
+1570,HU,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,2,2%
+1571,HU,Field Traffic Data Technician,Female,1,1%
+1572,HU,Field Traffic Data Technician,Male,1,1%
+1573,HU,Flight Test Data Acquisition Technician,Male,1,1%
+1574,HU,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+1575,HU,Geographic Information Systems Data Manager (GIS Data Manager),Male,3,3%
+1576,HU,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,2,2%
+1577,HU,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,1,1%
+1578,HU,Head of Information Systems and Data Processing,Female,1,1%
+1579,HU,Head of Information Systems and Data Processing,Male,2,2%
+1580,HU,Health Data Analyst,Female,1,1%
+1581,HU,Internet Database Specialist,Female,1,1%
+1582,HU,Internet Database Specialist,Male,1,1%
+1583,HU,Marketing Database Analyst,Female,1,1%
+1584,HU,Naval Tactical Data System--Combat Information Center Officer,Male,1,1%
+1585,HU,Not working,Female,42,44%
+1586,HU,Not working,Male,31,32%
+1587,HU,"Operations Officer, Afloat (Naval Tactical Data Systems)",Male,1,1%
+1588,HU,Oracle Database Administrator (Oracle DBA),Male,1,1%
+1589,HU,SQL Database Administrator,Female,4,4%
+1590,IE,Automatic Data Processing Planner (ADP Planner),Male,1,1%
+1591,IE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,1,1%
+1592,IE,Data Acquisition Technician,Male,1,1%
+1593,IE,Data Architect,Male,1,1%
+1594,IE,Data Communications Analyst,Female,2,2%
+1595,IE,Data Control Clerk Supervisor,Female,1,1%
+1596,IE,Data Input Clerk,Male,1,1%
+1597,IE,Data Management Associate,Female,1,1%
+1598,IE,Data Management Associate,Male,1,1%
+1599,IE,Data Miner,Female,1,1%
+1600,IE,Data Processing Auditor,Female,1,1%
+1601,IE,Data Processing Auditor,Male,1,1%
+1602,IE,Data Processing Consultant,Female,1,1%
+1603,IE,Data Processing Consultant,Male,1,1%
+1604,IE,Data Processing Manager,Female,1,1%
+1605,IE,Data Processing Mechanic,Female,1,1%
+1606,IE,Data Processing Systems Analyst,Male,2,2%
+1607,IE,Data Processing Systems Project Planner,Male,1,1%
+1608,IE,Data Scientist,Male,1,1%
+1609,IE,Data Security Administrator,Male,1,1%
+1610,IE,Data Specialist,Male,1,1%
+1611,IE,Data Systems Manager,Male,2,2%
+1612,IE,Data Warehouse Analyst,Female,1,1%
+1613,IE,Data Warehousing Manager,Female,1,1%
+1614,IE,Data Warehousing Specialist,Female,1,1%
+1615,IE,Database Administration Associate,Female,1,1%
+1616,IE,Database Architect,Male,1,1%
+1617,IE,Database Consultant,Female,1,1%
+1618,IE,Database Designer,Female,1,1%
+1619,IE,Database Modeler,Female,1,1%
+1620,IE,Database Modeler,Male,1,1%
+1621,IE,Database Security Administrator,Female,1,1%
+1622,IE,Database Tester,Female,2,2%
+1623,IE,Electronic Data Processing Auditor (EDP Auditor),Female,1,1%
+1624,IE,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+1625,IE,Geographic Information Systems Data Manager (GIS Data Manager),Male,1,1%
+1626,IE,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,1,1%
+1627,IE,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,2,2%
+1628,IE,LiDAR Data Analyst,Male,1,1%
+1629,IE,Not working,Female,21,22%
+1630,IE,Not working,Male,21,22%
+1631,IE,"Operations Officer, Afloat (Naval Tactical Data Systems)",Male,1,1%
+1632,IE,Oracle Database Administrator (Oracle DBA),Male,1,1%
+1633,IE,Reference Data Expert,Female,1,1%
+1634,IE,SQL Database Administrator,Male,1,1%
+1635,IT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,2,2%
+1636,IT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,8,8%
+1637,IT,Automatic Data Processing Planner,Female,4,4%
+1638,IT,Automatic Data Processing Planner,Male,3,3%
+1639,IT,Automatic Data Processing Planner (ADP Planner),Female,3,3%
+1640,IT,Automatic Data Processing Planner (ADP Planner),Male,6,6%
+1641,IT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,4,4%
+1642,IT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,4,4%
+1643,IT,Business Database Analyst,Female,1,1%
+1644,IT,Clinical Data Abstractor,Male,1,1%
+1645,IT,Clinical Data Analyst,Male,1,1%
+1646,IT,Clinical Data Associate,Male,2,2%
+1647,IT,Clinical Data Coordinator,Male,1,1%
+1648,IT,Clinical Data Management Associate Director,Male,1,1%
+1649,IT,Clinical Data Management Manager (CDM Manager),Female,2,2%
+1650,IT,Clinical Data Management Manager (CDM Manager),Male,1,1%
+1651,IT,Clinical Data Specialist,Female,1,1%
+1652,IT,Clinical Data Specialist,Male,1,1%
+1653,IT,Computer or Data Processing Systems Consultant,Female,4,4%
+1654,IT,Computer or Data Processing Systems Consultant,Male,3,3%
+1655,IT,Customer Data Technician,Female,1,1%
+1656,IT,Data Acquisition Technician,Female,2,2%
+1657,IT,Data Administrator,Female,7,7%
+1658,IT,Data Administrator,Male,6,6%
+1659,IT,Data Analysis Assistant,Male,1,1%
+1660,IT,Data Analyst,Female,1,1%
+1661,IT,Data Analyst,Male,1,1%
+1662,IT,Data Architect,Female,5,5%
+1663,IT,Data Architect,Male,6,6%
+1664,IT,Data Base Design Analyst,Female,4,4%
+1665,IT,Data Base Design Analyst,Male,5,5%
+1666,IT,Data Capture Clerk,Male,3,3%
+1667,IT,Data Center Operator,Male,1,1%
+1668,IT,Data Coder Operator,Female,2,2%
+1669,IT,Data Coder Operator,Male,3,3%
+1670,IT,Data Collection Technician,Male,1,1%
+1671,IT,Data Collector,Female,1,1%
+1672,IT,Data Collector,Male,1,1%
+1673,IT,Data Communications Analyst,Female,4,4%
+1674,IT,Data Communications Analyst,Male,5,5%
+1675,IT,Data Communications Software Consultant,Female,3,3%
+1676,IT,Data Communications Software Consultant,Male,2,2%
+1677,IT,Data Communications Technician,Male,1,1%
+1678,IT,Data Compiler,Male,3,3%
+1679,IT,Data Control Assistant,Female,2,2%
+1680,IT,Data Control Clerk Supervisor,Male,2,2%
+1681,IT,Data Conversion Operator,Female,1,1%
+1682,IT,Data Coordinator,Female,8,8%
+1683,IT,Data Coordinator,Male,2,2%
+1684,IT,Data Entry Associate,Male,1,1%
+1685,IT,Data Entry Clerk,Male,3,3%
+1686,IT,Data Entry Machine Operator,Female,1,1%
+1687,IT,Data Entry Operator,Male,1,1%
+1688,IT,Data Entry Representative,Female,1,1%
+1689,IT,Data Entry Representative,Male,2,2%
+1690,IT,Data Entry Specialist,Male,1,1%
+1691,IT,Data Entry Supervisor,Male,3,3%
+1692,IT,Data Examination Clerk,Female,1,1%
+1693,IT,Data Input Clerk,Female,2,2%
+1694,IT,Data Input Clerk,Male,2,2%
+1695,IT,Data Management Associate,Female,2,2%
+1696,IT,Data Management Associate,Male,4,4%
+1697,IT,Data Management Information Technology Specialist,Female,2,2%
+1698,IT,Data Management Information Technology Specialist,Male,7,7%
+1699,IT,Data Manager,Female,2,2%
+1700,IT,Data Manager,Male,2,2%
+1701,IT,Data Miner,Female,3,3%
+1702,IT,Data Miner,Male,11,11%
+1703,IT,Data Modeler,Female,1,1%
+1704,IT,Data Modeling Specialist,Female,4,4%
+1705,IT,Data Modeling Specialist,Male,9,9%
+1706,IT,Data Officer,Female,8,8%
+1707,IT,Data Officer,Male,7,7%
+1708,IT,Data Operations Director,Female,2,2%
+1709,IT,Data Operations Director,Male,2,2%
+1710,IT,Data Processing Auditor,Female,4,4%
+1711,IT,Data Processing Auditor,Male,9,9%
+1712,IT,Data Processing Auxiliary Equipment Operator,Female,1,1%
+1713,IT,Data Processing Consultant,Female,1,1%
+1714,IT,Data Processing Consultant,Male,3,3%
+1715,IT,Data Processing Control Clerk,Male,2,2%
+1716,IT,Data Processing Manager,Female,3,3%
+1717,IT,Data Processing Manager,Male,2,2%
+1718,IT,Data Processing Services Sales Representative,Female,1,1%
+1719,IT,Data Processing Supervisor,Male,1,1%
+1720,IT,Data Processing Systems Analyst,Female,2,2%
+1721,IT,Data Processing Systems Analyst,Male,7,7%
+1722,IT,Data Processing Systems Project Planner,Female,3,3%
+1723,IT,Data Processing Systems Project Planner,Male,7,7%
+1724,IT,Data Processor,Female,2,2%
+1725,IT,Data Processor,Male,1,1%
+1726,IT,Data Reduction Technician,Female,1,1%
+1727,IT,Data Sciences Director,Female,1,1%
+1728,IT,Data Sciences Director,Male,1,1%
+1729,IT,Data Scientist,Female,5,5%
+1730,IT,Data Scientist,Male,7,7%
+1731,IT,Data Security Administrator,Female,2,2%
+1732,IT,Data Security Administrator,Male,1,1%
+1733,IT,Data Security Analyst,Female,3,3%
+1734,IT,Data Security Analyst,Male,3,3%
+1735,IT,Data Specialist,Female,1,1%
+1736,IT,Data Storage Specialist,Female,5,5%
+1737,IT,Data Storage Specialist,Male,7,7%
+1738,IT,Data Systems Manager,Female,3,3%
+1739,IT,Data Systems Manager,Male,5,5%
+1740,IT,Data Technician,Male,1,1%
+1741,IT,Data Transcriber,Male,1,1%
+1742,IT,Data Typist,Female,2,2%
+1743,IT,Data Typist,Male,1,1%
+1744,IT,Data Warehouse Analyst,Female,2,2%
+1745,IT,Data Warehouse Analyst,Male,6,6%
+1746,IT,Data Warehouse Architect,Female,4,4%
+1747,IT,Data Warehouse Architect,Male,10,10%
+1748,IT,Data Warehouse Developer,Female,4,4%
+1749,IT,Data Warehouse Developer,Male,3,3%
+1750,IT,Data Warehouse Specialist,Female,5,5%
+1751,IT,Data Warehouse Specialist,Male,4,4%
+1752,IT,Data Warehousing Engineer,Female,3,3%
+1753,IT,Data Warehousing Engineer,Male,5,5%
+1754,IT,Data Warehousing Manager,Female,6,6%
+1755,IT,Data Warehousing Manager,Male,7,7%
+1756,IT,Data Warehousing Specialist,Female,4,4%
+1757,IT,Data Warehousing Specialist,Male,5,5%
+1758,IT,Database Administration Associate,Female,2,2%
+1759,IT,Database Administration Associate,Male,4,4%
+1760,IT,Database Administration Manager,Female,1,1%
+1761,IT,Database Administration Manager,Male,11,11%
+1762,IT,Database Administration Project Manager,Male,1,1%
+1763,IT,Database Administrator (DBA),Male,1,1%
+1764,IT,Database Analyst,Male,3,3%
+1765,IT,Database Architect,Female,7,7%
+1766,IT,Database Architect,Male,8,8%
+1767,IT,Database Consultant,Female,6,6%
+1768,IT,Database Consultant,Male,5,5%
+1769,IT,Database Coordinator,Female,2,2%
+1770,IT,Database Coordinator,Male,3,3%
+1771,IT,Database Design Analyst,Female,1,1%
+1772,IT,Database Design Analyst,Male,7,7%
+1773,IT,Database Designer,Female,3,3%
+1774,IT,Database Designer,Male,6,6%
+1775,IT,Database Developer,Female,1,1%
+1776,IT,Database Developer,Male,1,1%
+1777,IT,Database Development Project Manager,Male,2,2%
+1778,IT,Database Development and Administration Project Manager,Female,7,7%
+1779,IT,Database Development and Administration Project Manager,Male,3,3%
+1780,IT,Database Engineer,Female,5,5%
+1781,IT,Database Engineer,Male,3,3%
+1782,IT,Database Management System Specialist (DBMS Specialist),Female,1,1%
+1783,IT,Database Management System Specialist (DBMS Specialist),Male,9,9%
+1784,IT,Database Manager,Female,4,4%
+1785,IT,Database Manager,Male,4,4%
+1786,IT,Database Marketing Analyst,Female,2,2%
+1787,IT,Database Marketing Analyst,Male,5,5%
+1788,IT,Database Modeler,Female,1,1%
+1789,IT,Database Modeler,Male,5,5%
+1790,IT,Database Programmer,Female,1,1%
+1791,IT,Database Programmer,Male,1,1%
+1792,IT,Database Security Administrator,Female,6,6%
+1793,IT,Database Security Administrator,Male,5,5%
+1794,IT,Database Security Expert,Female,4,4%
+1795,IT,Database Security Expert,Male,5,5%
+1796,IT,Database Software Technician,Female,4,4%
+1797,IT,Database Software Technician,Male,7,7%
+1798,IT,Database Specialist,Female,2,2%
+1799,IT,Database Specialist,Male,1,1%
+1800,IT,Database Tester,Female,3,3%
+1801,IT,Database Tester,Male,7,7%
+1802,IT,Databases Computer Consultant,Female,1,1%
+1803,IT,Databases Computer Consultant,Male,3,3%
+1804,IT,Databases Software Consultant,Female,2,2%
+1805,IT,Databases Software Consultant,Male,1,1%
+1806,IT,Datastage Developer,Female,1,1%
+1807,IT,Director of Data Operations,Female,2,2%
+1808,IT,Director of Data Operations,Male,6,6%
+1809,IT,Electronic Data Interchange System Developer (EDI System Developer),Male,6,6%
+1810,IT,Electronic Data Processing Auditor (EDP Auditor),Female,4,4%
+1811,IT,Electronic Data Processing Auditor (EDP Auditor),Male,4,4%
+1812,IT,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,3,3%
+1813,IT,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,5,5%
+1814,IT,Field Artillery Automated Tactical Data System Specialist,Female,1,1%
+1815,IT,Field Artillery Automated Tactical Data System Specialist,Male,1,1%
+1816,IT,Field Traffic Data Technician,Male,1,1%
+1817,IT,Flight Data Technician,Female,2,2%
+1818,IT,Flight Data Technician,Male,1,1%
+1819,IT,Flight Test Data Acquisition Technician,Female,1,1%
+1820,IT,GPS Field Data Collector (Global Positioning System Field Data Collector),Male,1,1%
+1821,IT,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,2,2%
+1822,IT,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,3,3%
+1823,IT,Geographic Information Systems Data Manager (GIS Data Manager),Female,2,2%
+1824,IT,Geographic Information Systems Data Manager (GIS Data Manager),Male,4,4%
+1825,IT,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,3,3%
+1826,IT,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,5,5%
+1827,IT,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,4,4%
+1828,IT,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,8,8%
+1829,IT,Head of Information Systems and Data Processing,Female,1,1%
+1830,IT,Head of Information Systems and Data Processing,Male,4,4%
+1831,IT,Health Data Analyst,Male,3,3%
+1832,IT,Internet Database Specialist,Female,4,4%
+1833,IT,Internet Database Specialist,Male,7,7%
+1834,IT,Marketing Database Analyst,Female,1,1%
+1835,IT,Micro Computer Data Processor,Female,1,1%
+1836,IT,Micro Computer Data Processor,Male,1,1%
+1837,IT,Naval Tactical Data System--Combat Information Center Officer,Male,1,1%
+1838,IT,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Female,1,1%
+1839,IT,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Male,3,3%
+1840,IT,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Male,2,2%
+1841,IT,Not working,Female,236,245%
+1842,IT,Not working,Male,210,218%
+1843,IT,"Operations Officer, Afloat (Naval Tactical Data Systems)",Female,1,1%
+1844,IT,"Operations Officer, Afloat (Naval Tactical Data Systems)",Male,2,2%
+1845,IT,Oracle Database Administrator (Oracle DBA),Female,2,2%
+1846,IT,Oracle Database Administrator (Oracle DBA),Male,2,2%
+1847,IT,SCADA Operator (Supervisory Control and Data Acquisition Operator),Male,1,1%
+1848,IT,SCADA Technician (Supervisory Control and Data Acquisition Technician),Female,1,1%
+1849,IT,SCADA Technician (Supervisory Control and Data Acquisition Technician),Male,1,1%
+1850,IT,SQL Database Administrator,Female,2,2%
+1851,IT,SQL Database Administrator,Male,7,7%
+1852,IT,Scientific Database Curator,Female,2,2%
+1853,IT,Scientific Database Curator,Male,1,1%
+1854,IT,Survey Data Technician,Female,1,1%
+1855,IT,Voice and Data Technician,Female,1,1%
+1856,IT,Voice and Data Technician,Male,2,2%
+1857,IT,Weight in Motion Field Data Collection Technician,Male,2,2%
+1858,LT,Automatic Data Processing Planner (ADP Planner),Male,2,2%
+1859,LT,Clinical Data Management Associate Director,Male,1,1%
+1860,LT,Data Communications Software Consultant,Female,2,2%
+1861,LT,Data Entry Specialist,Female,1,1%
+1862,LT,Data Operations Director,Male,1,1%
+1863,LT,Data Processing Auditor,Female,1,1%
+1864,LT,Data Processing Systems Project Planner,Female,1,1%
+1865,LT,Data Security Administrator,Female,1,1%
+1866,LT,Data Warehouse Architect,Male,1,1%
+1867,LT,Data Warehouse Specialist,Male,1,1%
+1868,LT,Database Administration Manager,Female,1,1%
+1869,LT,Database Design Analyst,Female,1,1%
+1870,LT,Database Designer,Male,1,1%
+1871,LT,Database Management System Specialist (DBMS Specialist),Male,1,1%
+1872,LT,Database Manager,Male,1,1%
+1873,LT,Database Security Administrator,Male,1,1%
+1874,LT,Database Specialist,Male,1,1%
+1875,LT,Databases Software Consultant,Male,2,2%
+1876,LT,Director of Data Operations,Male,1,1%
+1877,LT,Electronic Data Processing Auditor (EDP Auditor),Male,2,2%
+1878,LT,Internet Database Specialist,Male,1,1%
+1879,LT,Maintenance Data Analyst,Male,1,1%
+1880,LT,Not working,Female,9,9%
+1881,LT,Not working,Male,12,12%
+1882,LT,Oracle Database Administrator (Oracle DBA),Male,1,1%
+1883,LT,SQL Database Administrator,Male,1,1%
+1884,LT,Voice and Data Technician,Male,1,1%
+1885,LU,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,1,1%
+1886,LU,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,1,1%
+1887,LU,Data Communications Software Consultant,Female,1,1%
+1888,LU,Data Conversion Operator,Male,1,1%
+1889,LU,Data Processing Auditor,Female,1,1%
+1890,LU,Data Storage Specialist,Male,1,1%
+1891,LU,Database Design Analyst,Male,1,1%
+1892,LU,Database Security Administrator,Female,1,1%
+1893,LU,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,1,1%
+1894,LU,Not working,Male,2,2%
+1895,LV,Clinical Data Manager,Male,1,1%
+1896,LV,Data Analyst,Male,1,1%
+1897,LV,Data Architect,Male,1,1%
+1898,LV,Data Base Design Analyst,Female,1,1%
+1899,LV,Data Communications Analyst,Male,1,1%
+1900,LV,Data Conversion Operator,Male,1,1%
+1901,LV,Data Coordinator,Male,1,1%
+1902,LV,Data Operations Director,Male,1,1%
+1903,LV,Data Processing Clerk,Female,1,1%
+1904,LV,Data Processing Manager,Female,1,1%
+1905,LV,Data Processing Systems Project Planner,Male,1,1%
+1906,LV,Data Systems Manager,Male,1,1%
+1907,LV,Data Warehouse Architect,Male,1,1%
+1908,LV,Data Warehousing Engineer,Female,1,1%
+1909,LV,Data Warehousing Engineer,Male,1,1%
+1910,LV,Data Warehousing Manager,Female,1,1%
+1911,LV,Data Warehousing Specialist,Male,1,1%
+1912,LV,Database Administration Associate,Male,1,1%
+1913,LV,Database Design Analyst,Male,1,1%
+1914,LV,Databases Computer Consultant,Male,1,1%
+1915,LV,Director of Data Operations,Male,1,1%
+1916,LV,Head of Information Systems and Data Processing,Male,1,1%
+1917,LV,Not working,Female,7,7%
+1918,LV,Not working,Male,6,6%
+1919,LV,Weight in Motion Field Data Collection Technician,Male,1,1%
+1920,MT,Data Scientist,Male,1,1%
+1921,MT,Database Coordinator,Female,1,1%
+1922,MT,Database Coordinator,Male,1,1%
+1923,MT,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,1,1%
+1924,MT,Internet Database Specialist,Male,1,1%
+1925,MT,Not working,Female,3,3%
+1926,NL,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,2,2%
+1927,NL,Automatic Data Processing Planner,Male,3,3%
+1928,NL,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,1,1%
+1929,NL,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,2,2%
+1930,NL,Business Database Analyst,Female,1,1%
+1931,NL,Clinical Data Associate,Male,1,1%
+1932,NL,Clinical Data Manager,Male,1,1%
+1933,NL,Computer or Data Processing Systems Consultant,Male,2,2%
+1934,NL,Data Administrator,Male,3,3%
+1935,NL,Data Analysis Assistant,Female,1,1%
+1936,NL,Data Analyst,Male,1,1%
+1937,NL,Data Center Operator,Male,2,2%
+1938,NL,Data Collection Technician,Male,1,1%
+1939,NL,Data Collector,Male,1,1%
+1940,NL,Data Communications Analyst,Male,1,1%
+1941,NL,Data Communications Software Consultant,Male,1,1%
+1942,NL,Data Compiler,Male,1,1%
+1943,NL,Data Control Assistant,Female,1,1%
+1944,NL,Data Control Assistant,Male,1,1%
+1945,NL,Data Control Clerk Supervisor,Male,2,2%
+1946,NL,Data Coordinator,Female,1,1%
+1947,NL,Data Entry Associate,Male,1,1%
+1948,NL,Data Entry Supervisor,Female,1,1%
+1949,NL,Data Examination Clerk,Male,1,1%
+1950,NL,Data Management Associate,Male,4,4%
+1951,NL,Data Management Information Technology Specialist,Female,1,1%
+1952,NL,Data Management Information Technology Specialist,Male,1,1%
+1953,NL,Data Manager,Female,1,1%
+1954,NL,Data Miner,Male,2,2%
+1955,NL,Data Modeling Specialist,Female,2,2%
+1956,NL,Data Processing Auditor,Male,1,1%
+1957,NL,Data Processing Consultant,Male,2,2%
+1958,NL,Data Processing Control Clerk,Male,1,1%
+1959,NL,Data Processing Equipment Repairer,Female,2,2%
+1960,NL,Data Processing Equipment Repairer,Male,1,1%
+1961,NL,Data Processing Manager,Female,2,2%
+1962,NL,Data Processing Manager,Male,2,2%
+1963,NL,Data Processing Mechanic,Female,1,1%
+1964,NL,Data Processing Services Sales Representative,Male,1,1%
+1965,NL,Data Processing Systems Analyst,Female,1,1%
+1966,NL,Data Processing Systems Analyst,Male,5,5%
+1967,NL,Data Sciences Director,Female,1,1%
+1968,NL,Data Scientist,Female,1,1%
+1969,NL,Data Scientist,Male,2,2%
+1970,NL,Data Security Administrator,Male,2,2%
+1971,NL,Data Security Analyst,Male,4,4%
+1972,NL,Data Systems Manager,Male,1,1%
+1973,NL,Data Technician,Male,1,1%
+1974,NL,Data Warehouse Analyst,Female,1,1%
+1975,NL,Data Warehouse Analyst,Male,2,2%
+1976,NL,Data Warehouse Specialist,Male,2,2%
+1977,NL,Data Warehousing Engineer,Female,2,2%
+1978,NL,Data Warehousing Engineer,Male,3,3%
+1979,NL,Data Warehousing Manager,Male,2,2%
+1980,NL,Database Administration Associate,Female,1,1%
+1981,NL,Database Administration Associate,Male,2,2%
+1982,NL,Database Administration Manager,Male,1,1%
+1983,NL,Database Administration Project Manager,Male,1,1%
+1984,NL,Database Analyst,Female,1,1%
+1985,NL,Database Architect,Female,1,1%
+1986,NL,Database Consultant,Female,1,1%
+1987,NL,Database Consultant,Male,2,2%
+1988,NL,Database Coordinator,Male,4,4%
+1989,NL,Database Design Analyst,Male,1,1%
+1990,NL,Database Designer,Female,1,1%
+1991,NL,Database Designer,Male,2,2%
+1992,NL,Database Development and Administration Project Manager,Female,1,1%
+1993,NL,Database Management System Specialist (DBMS Specialist),Male,2,2%
+1994,NL,Database Manager,Male,2,2%
+1995,NL,Database Marketing Analyst,Female,3,3%
+1996,NL,Database Marketing Analyst,Male,2,2%
+1997,NL,Database Modeler,Female,3,3%
+1998,NL,Database Security Administrator,Male,1,1%
+1999,NL,Database Security Expert,Male,2,2%
+2000,NL,Database Software Technician,Male,3,3%
+2001,NL,Database Specialist,Female,1,1%
+2002,NL,Database Specialist,Male,1,1%
+2003,NL,Database Tester,Female,1,1%
+2004,NL,Database Tester,Male,1,1%
+2005,NL,Director of Data Operations,Female,3,3%
+2006,NL,Electronic Data Processing Auditor (EDP Auditor),Female,1,1%
+2007,NL,Electronic Data Processing Auditor (EDP Auditor),Male,4,4%
+2008,NL,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,4,4%
+2009,NL,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,2,2%
+2010,NL,Field Artillery Automated Tactical Data System Specialist,Male,2,2%
+2011,NL,GPS Field Data Collector (Global Positioning System Field Data Collector),Male,1,1%
+2012,NL,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,1,1%
+2013,NL,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+2014,NL,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,1,1%
+2015,NL,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,2,2%
+2016,NL,Internet Database Specialist,Female,1,1%
+2017,NL,Internet Database Specialist,Male,2,2%
+2018,NL,LiDAR Data Analyst,Female,1,1%
+2019,NL,Micro Computer Data Processor,Female,1,1%
+2020,NL,Not working,Female,117,121%
+2021,NL,Not working,Male,50,52%
+2022,NL,Oracle Database Administrator (Oracle DBA),Female,1,1%
+2023,NL,Oracle Database Administrator (Oracle DBA),Male,2,2%
+2024,NL,Reference Data Expert,Male,1,1%
+2025,NL,SCADA Operator (Supervisory Control and Data Acquisition Operator),Female,1,1%
+2026,NL,SCADA Technician (Supervisory Control and Data Acquisition Technician),Female,1,1%
+2027,NL,SQL Database Administrator,Female,1,1%
+2028,NL,Survey Data Technician,Male,1,1%
+2029,NL,Weight in Motion Field Data Collection Technician,Female,1,1%
+2030,PL,Analytical Data Miner,Female,2,2%
+2031,PL,Analytical Data Miner,Male,1,1%
+2032,PL,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,5,5%
+2033,PL,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,9,9%
+2034,PL,Automatic Data Processing Planner,Female,4,4%
+2035,PL,Automatic Data Processing Planner,Male,2,2%
+2036,PL,Automatic Data Processing Planner (ADP Planner),Female,3,3%
+2037,PL,Automatic Data Processing Planner (ADP Planner),Male,3,3%
+2038,PL,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,2,2%
+2039,PL,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,7,7%
+2040,PL,Clinical Data Abstractor,Female,1,1%
+2041,PL,Clinical Data Abstractor,Male,1,1%
+2042,PL,Clinical Data Analyst,Female,2,2%
+2043,PL,Clinical Data Analyst,Male,1,1%
+2044,PL,Clinical Data Associate,Male,1,1%
+2045,PL,Clinical Data Coordinator,Male,1,1%
+2046,PL,Clinical Data Management Associate Director,Female,1,1%
+2047,PL,Clinical Data Management Manager (CDM Manager),Female,1,1%
+2048,PL,Clinical Data Management Manager (CDM Manager),Male,1,1%
+2049,PL,Clinical Data Specialist,Male,1,1%
+2050,PL,Computer or Data Processing Systems Consultant,Female,2,2%
+2051,PL,Computer or Data Processing Systems Consultant,Male,4,4%
+2052,PL,Customer Data Technician,Female,1,1%
+2053,PL,Customer Data Technician,Male,1,1%
+2054,PL,Data Acquisition Technician,Female,2,2%
+2055,PL,Data Administrator,Female,2,2%
+2056,PL,Data Administrator,Male,5,5%
+2057,PL,Data Architect,Female,4,4%
+2058,PL,Data Architect,Male,6,6%
+2059,PL,Data Base Design Analyst,Female,3,3%
+2060,PL,Data Capture Clerk,Male,2,2%
+2061,PL,Data Capture Specialist,Female,2,2%
+2062,PL,Data Capture Specialist,Male,1,1%
+2063,PL,Data Center Operator,Male,1,1%
+2064,PL,Data Coder Operator,Female,1,1%
+2065,PL,Data Collection Technician,Female,2,2%
+2066,PL,Data Collection Technician,Male,1,1%
+2067,PL,Data Collector,Female,1,1%
+2068,PL,Data Communications Analyst,Female,5,5%
+2069,PL,Data Communications Analyst,Male,8,8%
+2070,PL,Data Communications Software Consultant,Female,3,3%
+2071,PL,Data Communications Software Consultant,Male,3,3%
+2072,PL,Data Communications Technician,Female,1,1%
+2073,PL,Data Communications Technician,Male,1,1%
+2074,PL,Data Compiler,Male,2,2%
+2075,PL,Data Control Assistant,Male,1,1%
+2076,PL,Data Coordinator,Female,6,6%
+2077,PL,Data Coordinator,Male,2,2%
+2078,PL,Data Entry Associate,Female,1,1%
+2079,PL,Data Entry Operator,Male,1,1%
+2080,PL,Data Entry Representative,Male,1,1%
+2081,PL,Data Entry Specialist,Female,1,1%
+2082,PL,Data Entry Supervisor,Female,1,1%
+2083,PL,Data Entry Technician,Male,2,2%
+2084,PL,Data Examination Clerk,Male,1,1%
+2085,PL,Data Input Clerk,Male,1,1%
+2086,PL,Data Management Associate,Female,1,1%
+2087,PL,Data Management Associate,Male,4,4%
+2088,PL,Data Management Information Technology Specialist,Female,3,3%
+2089,PL,Data Management Information Technology Specialist,Male,4,4%
+2090,PL,Data Management Manager,Male,1,1%
+2091,PL,Data Miner,Female,2,2%
+2092,PL,Data Miner,Male,5,5%
+2093,PL,Data Modeling Specialist,Female,3,3%
+2094,PL,Data Modeling Specialist,Male,2,2%
+2095,PL,Data Officer,Female,2,2%
+2096,PL,Data Officer,Male,5,5%
+2097,PL,Data Operations Director,Female,2,2%
+2098,PL,Data Operations Director,Male,2,2%
+2099,PL,Data Processing Auditor,Female,4,4%
+2100,PL,Data Processing Auditor,Male,3,3%
+2101,PL,Data Processing Clerk,Female,1,1%
+2102,PL,Data Processing Consultant,Female,3,3%
+2103,PL,Data Processing Consultant,Male,2,2%
+2104,PL,Data Processing Control Clerk,Female,1,1%
+2105,PL,Data Processing Equipment Repairer,Female,1,1%
+2106,PL,Data Processing Manager,Female,3,3%
+2107,PL,Data Processing Manager,Male,4,4%
+2108,PL,Data Processing Supervisor,Male,1,1%
+2109,PL,Data Processing Systems Analyst,Female,1,1%
+2110,PL,Data Processing Systems Analyst,Male,4,4%
+2111,PL,Data Processing Systems Project Planner,Female,1,1%
+2112,PL,Data Processing Systems Project Planner,Male,2,2%
+2113,PL,Data Recovery Planner,Male,1,1%
+2114,PL,Data Reduction Technician,Male,1,1%
+2115,PL,Data Reviewer,Male,1,1%
+2116,PL,Data Sciences Director,Female,1,1%
+2117,PL,Data Sciences Director,Male,1,1%
+2118,PL,Data Scientist,Female,1,1%
+2119,PL,Data Scientist,Male,1,1%
+2120,PL,Data Security Administrator,Female,3,3%
+2121,PL,Data Security Administrator,Male,5,5%
+2122,PL,Data Security Analyst,Female,1,1%
+2123,PL,Data Security Analyst,Male,8,8%
+2124,PL,Data Specialist,Female,1,1%
+2125,PL,Data Specialist,Male,1,1%
+2126,PL,Data Storage Specialist,Female,5,5%
+2127,PL,Data Storage Specialist,Male,8,8%
+2128,PL,Data Systems Manager,Female,3,3%
+2129,PL,Data Systems Manager,Male,3,3%
+2130,PL,Data Technician,Female,1,1%
+2131,PL,Data Transcriber,Female,1,1%
+2132,PL,Data Typist,Female,1,1%
+2133,PL,Data Warehouse Analyst,Female,3,3%
+2134,PL,Data Warehouse Analyst,Male,5,5%
+2135,PL,Data Warehouse Architect,Female,1,1%
+2136,PL,Data Warehouse Architect,Male,3,3%
+2137,PL,Data Warehouse Developer,Female,3,3%
+2138,PL,Data Warehouse Developer,Male,8,8%
+2139,PL,Data Warehouse Specialist,Female,7,7%
+2140,PL,Data Warehouse Specialist,Male,2,2%
+2141,PL,Data Warehousing Engineer,Male,3,3%
+2142,PL,Data Warehousing Manager,Female,1,1%
+2143,PL,Data Warehousing Manager,Male,4,4%
+2144,PL,Data Warehousing Specialist,Female,2,2%
+2145,PL,Data Warehousing Specialist,Male,3,3%
+2146,PL,Database Administration Associate,Male,4,4%
+2147,PL,Database Administration Manager,Female,1,1%
+2148,PL,Database Administration Manager,Male,5,5%
+2149,PL,Database Administration Project Manager,Female,1,1%
+2150,PL,Database Administrator (DBA),Female,1,1%
+2151,PL,Database Administrator (DBA),Male,1,1%
+2152,PL,Database Analyst,Female,1,1%
+2153,PL,Database Analyst,Male,1,1%
+2154,PL,Database Architect,Female,1,1%
+2155,PL,Database Architect,Male,3,3%
+2156,PL,Database Consultant,Female,2,2%
+2157,PL,Database Consultant,Male,4,4%
+2158,PL,Database Coordinator,Female,3,3%
+2159,PL,Database Coordinator,Male,3,3%
+2160,PL,Database Design Analyst,Female,6,6%
+2161,PL,Database Design Analyst,Male,4,4%
+2162,PL,Database Designer,Female,1,1%
+2163,PL,Database Designer,Male,4,4%
+2164,PL,Database Developer,Male,2,2%
+2165,PL,Database Development and Administration Project Manager,Female,5,5%
+2166,PL,Database Development and Administration Project Manager,Male,7,7%
+2167,PL,Database Engineer,Female,2,2%
+2168,PL,Database Engineer,Male,3,3%
+2169,PL,Database Management System Specialist (DBMS Specialist),Female,1,1%
+2170,PL,Database Management System Specialist (DBMS Specialist),Male,5,5%
+2171,PL,Database Manager,Female,4,4%
+2172,PL,Database Manager,Male,2,2%
+2173,PL,Database Marketing Analyst,Female,1,1%
+2174,PL,Database Marketing Analyst,Male,4,4%
+2175,PL,Database Modeler,Female,1,1%
+2176,PL,Database Modeler,Male,3,3%
+2177,PL,Database Programmer,Female,1,1%
+2178,PL,Database Programmer,Male,1,1%
+2179,PL,Database Security Administrator,Female,4,4%
+2180,PL,Database Security Administrator,Male,7,7%
+2181,PL,Database Security Expert,Female,5,5%
+2182,PL,Database Security Expert,Male,4,4%
+2183,PL,Database Software Technician,Female,3,3%
+2184,PL,Database Software Technician,Male,4,4%
+2185,PL,Database Specialist,Female,1,1%
+2186,PL,Database Specialist,Male,4,4%
+2187,PL,Database Technician,Male,1,1%
+2188,PL,Database Tester,Female,4,4%
+2189,PL,Database Tester,Male,2,2%
+2190,PL,Databases Computer Consultant,Female,1,1%
+2191,PL,Databases Computer Consultant,Male,3,3%
+2192,PL,Databases Software Consultant,Female,2,2%
+2193,PL,Databases Software Consultant,Male,3,3%
+2194,PL,Datastage Developer,Female,1,1%
+2195,PL,Datastage Developer,Male,1,1%
+2196,PL,Director of Data Operations,Female,6,6%
+2197,PL,Director of Data Operations,Male,5,5%
+2198,PL,Electronic Data Interchange System Developer (EDI System Developer),Female,1,1%
+2199,PL,Electronic Data Interchange System Developer (EDI System Developer),Male,4,4%
+2200,PL,Electronic Data Processing Auditor (EDP Auditor),Female,3,3%
+2201,PL,Electronic Data Processing Auditor (EDP Auditor),Male,3,3%
+2202,PL,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,1,1%
+2203,PL,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,1,1%
+2204,PL,Field Artillery Automated Tactical Data System Specialist,Female,2,2%
+2205,PL,Field Traffic Data Technician,Male,1,1%
+2206,PL,Flight Data Technician,Male,3,3%
+2207,PL,Flight Test Data Acquisition Technician,Female,1,1%
+2208,PL,Flight Test Data Acquisition Technician,Male,1,1%
+2209,PL,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,3,3%
+2210,PL,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,2,2%
+2211,PL,Geographic Information Systems Data Manager (GIS Data Manager),Female,3,3%
+2212,PL,Geographic Information Systems Data Manager (GIS Data Manager),Male,3,3%
+2213,PL,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,5,5%
+2214,PL,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,7,7%
+2215,PL,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,10,10%
+2216,PL,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,2,2%
+2217,PL,Head of Information Systems and Data Processing,Female,1,1%
+2218,PL,Head of Information Systems and Data Processing,Male,1,1%
+2219,PL,Internet Database Specialist,Female,1,1%
+2220,PL,Internet Database Specialist,Male,1,1%
+2221,PL,LiDAR Data Analyst,Female,1,1%
+2222,PL,LiDAR Data Analyst,Male,2,2%
+2223,PL,Log Data Technician,Male,1,1%
+2224,PL,Marketing Database Analyst,Male,2,2%
+2225,PL,Medical Data Analyst,Female,1,1%
+2226,PL,Naval Tactical Data System--Combat Information Center Officer,Female,1,1%
+2227,PL,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Female,1,1%
+2228,PL,"Naval Tactical Data System--Combat Information Center Watch Officer, Carrier Controlled Approach Controller",Male,1,1%
+2229,PL,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Female,2,2%
+2230,PL,"Naval Tactical Data System--Combat Information Center Watch Officer, General",Male,1,1%
+2231,PL,Not working,Female,173,179%
+2232,PL,Not working,Male,151,156%
+2233,PL,Oracle Database Administrator (Oracle DBA),Female,2,2%
+2234,PL,Oracle Database Administrator (Oracle DBA),Male,5,5%
+2235,PL,Reference Data Expert,Male,1,1%
+2236,PL,SCADA Operator (Supervisory Control and Data Acquisition Operator),Male,1,1%
+2237,PL,SQL Database Administrator,Female,4,4%
+2238,PL,SQL Database Administrator,Male,6,6%
+2239,PL,Scientific Database Curator,Male,1,1%
+2240,PL,Survey Data Technician,Male,1,1%
+2241,PL,Voice and Data Technician,Female,1,1%
+2242,PL,Weight in Motion Field Data Collection Technician,Female,1,1%
+2243,PT,Analytical Data Miner,Female,1,1%
+2244,PT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,2,2%
+2245,PT,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,1,1%
+2246,PT,Automatic Data Processing Planner,Female,1,1%
+2247,PT,Automatic Data Processing Planner (ADP Planner),Female,1,1%
+2248,PT,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,5,5%
+2249,PT,Clinical Data Coordinator,Female,1,1%
+2250,PT,Clinical Data Management Associate Director,Male,1,1%
+2251,PT,Clinical Data Manager,Male,1,1%
+2252,PT,Clinical Data Specialist,Male,1,1%
+2253,PT,Computer or Data Processing Systems Consultant,Female,3,3%
+2254,PT,Data Administrator,Male,5,5%
+2255,PT,Data Architect,Female,1,1%
+2256,PT,Data Architect,Male,1,1%
+2257,PT,Data Base Design Analyst,Male,2,2%
+2258,PT,Data Capture Clerk,Male,2,2%
+2259,PT,Data Center Operator,Female,1,1%
+2260,PT,Data Collector,Male,1,1%
+2261,PT,Data Communications Analyst,Female,1,1%
+2262,PT,Data Communications Analyst,Male,1,1%
+2263,PT,Data Communications Software Consultant,Female,3,3%
+2264,PT,Data Communications Software Consultant,Male,2,2%
+2265,PT,Data Communications Technician,Male,1,1%
+2266,PT,Data Conversion Operator,Female,1,1%
+2267,PT,Data Coordinator,Female,3,3%
+2268,PT,Data Coordinator,Male,3,3%
+2269,PT,Data Entry Machine Operator,Female,1,1%
+2270,PT,Data Management Associate,Female,1,1%
+2271,PT,Data Management Associate,Male,2,2%
+2272,PT,Data Management Information Technology Specialist,Male,1,1%
+2273,PT,Data Management Manager,Female,1,1%
+2274,PT,Data Manager,Male,1,1%
+2275,PT,Data Miner,Female,1,1%
+2276,PT,Data Modeling Specialist,Female,1,1%
+2277,PT,Data Officer,Female,2,2%
+2278,PT,Data Officer,Male,1,1%
+2279,PT,Data Processing Clerk,Female,1,1%
+2280,PT,Data Processing Consultant,Female,1,1%
+2281,PT,Data Processing Consultant,Male,4,4%
+2282,PT,Data Processing Control Clerk,Female,1,1%
+2283,PT,Data Processing Equipment Repairer,Female,1,1%
+2284,PT,Data Processing Manager,Female,2,2%
+2285,PT,Data Processing Manager,Male,2,2%
+2286,PT,Data Processing Services Sales Representative,Female,1,1%
+2287,PT,Data Processing Systems Project Planner,Female,1,1%
+2288,PT,Data Processing Systems Project Planner,Male,1,1%
+2289,PT,Data Processor,Male,1,1%
+2290,PT,Data Recovery Planner,Female,1,1%
+2291,PT,Data Recovery Planner,Male,2,2%
+2292,PT,Data Reduction Technician,Female,1,1%
+2293,PT,Data Scientist,Female,2,2%
+2294,PT,Data Scientist,Male,2,2%
+2295,PT,Data Security Analyst,Male,4,4%
+2296,PT,Data Storage Specialist,Female,2,2%
+2297,PT,Data Warehouse Analyst,Female,1,1%
+2298,PT,Data Warehouse Analyst,Male,1,1%
+2299,PT,Data Warehouse Architect,Female,1,1%
+2300,PT,Data Warehouse Architect,Male,1,1%
+2301,PT,Data Warehouse Specialist,Male,1,1%
+2302,PT,Data Warehousing Engineer,Male,1,1%
+2303,PT,Data Warehousing Manager,Male,1,1%
+2304,PT,Database Administration Associate,Male,2,2%
+2305,PT,Database Administration Manager,Male,1,1%
+2306,PT,Database Architect,Female,1,1%
+2307,PT,Database Architect,Male,2,2%
+2308,PT,Database Consultant,Female,1,1%
+2309,PT,Database Consultant,Male,1,1%
+2310,PT,Database Coordinator,Male,2,2%
+2311,PT,Database Development and Administration Project Manager,Male,1,1%
+2312,PT,Database Engineer,Female,1,1%
+2313,PT,Database Engineer,Male,1,1%
+2314,PT,Database Management System Specialist (DBMS Specialist),Male,1,1%
+2315,PT,Database Manager,Female,1,1%
+2316,PT,Database Manager,Male,2,2%
+2317,PT,Database Marketing Analyst,Female,1,1%
+2318,PT,Database Software Technician,Male,2,2%
+2319,PT,Database Specialist,Female,1,1%
+2320,PT,Database Specialist,Male,2,2%
+2321,PT,Databases Computer Consultant,Male,1,1%
+2322,PT,Databases Software Consultant,Female,2,2%
+2323,PT,Databases Software Consultant,Male,1,1%
+2324,PT,Electronic Data Interchange System Developer (EDI System Developer),Female,1,1%
+2325,PT,Electronic Data Interchange System Developer (EDI System Developer),Male,2,2%
+2326,PT,Electronic Data Processing Auditor (EDP Auditor),Female,1,1%
+2327,PT,Electronic Data Processing Auditor (EDP Auditor),Male,2,2%
+2328,PT,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,1,1%
+2329,PT,Field Traffic Data Technician,Female,1,1%
+2330,PT,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,3,3%
+2331,PT,Geographic Information Systems Data Manager (GIS Data Manager),Male,1,1%
+2332,PT,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,2,2%
+2333,PT,Geographic Information Systems Database Administrator (GIS Database Administrator),Male,1,1%
+2334,PT,Internet Database Specialist,Female,1,1%
+2335,PT,LiDAR Data Analyst,Male,1,1%
+2336,PT,Log Data Technician,Male,1,1%
+2337,PT,Micro Computer Data Processor,Female,1,1%
+2338,PT,Not working,Female,33,34%
+2339,PT,Not working,Male,25,26%
+2340,PT,Oracle Database Administrator (Oracle DBA),Female,1,1%
+2341,PT,SQL Database Administrator,Male,2,2%
+2342,RO,Analytical Data Miner,Male,1,1%
+2343,RO,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,5,5%
+2344,RO,Automatic Data Processing Planner,Female,2,2%
+2345,RO,Automatic Data Processing Planner,Male,1,1%
+2346,RO,Automatic Data Processing Planner (ADP Planner),Female,2,2%
+2347,RO,Automatic Data Processing Planner (ADP Planner),Male,1,1%
+2348,RO,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,3,3%
+2349,RO,Business Database Analyst,Female,2,2%
+2350,RO,Clinical Data Analyst,Male,1,1%
+2351,RO,Clinical Data Associate,Male,2,2%
+2352,RO,Clinical Data Manager,Male,2,2%
+2353,RO,Computer or Data Processing Systems Consultant,Female,2,2%
+2354,RO,Computer or Data Processing Systems Consultant,Male,4,4%
+2355,RO,Crime Data Specialist,Male,1,1%
+2356,RO,Customer Data Technician,Male,1,1%
+2357,RO,Data Abstractor,Male,1,1%
+2358,RO,Data Administrator,Female,4,4%
+2359,RO,Data Administrator,Male,1,1%
+2360,RO,Data Analysis Assistant,Female,1,1%
+2361,RO,Data Analysis Assistant,Male,1,1%
+2362,RO,Data Architect,Female,1,1%
+2363,RO,Data Architect,Male,4,4%
+2364,RO,Data Base Design Analyst,Male,2,2%
+2365,RO,Data Center Operator,Female,1,1%
+2366,RO,Data Center Operator,Male,1,1%
+2367,RO,Data Coder Operator,Male,1,1%
+2368,RO,Data Collection Technician,Male,2,2%
+2369,RO,Data Communications Analyst,Male,1,1%
+2370,RO,Data Communications Software Consultant,Female,1,1%
+2371,RO,Data Compiler,Male,1,1%
+2372,RO,Data Coordinator,Female,3,3%
+2373,RO,Data Entry Clerk,Male,1,1%
+2374,RO,Data Entry Operator,Male,1,1%
+2375,RO,Data Entry Representative,Female,1,1%
+2376,RO,Data Entry Specialist,Male,1,1%
+2377,RO,Data Entry Supervisor,Male,1,1%
+2378,RO,Data Entry Technician,Female,1,1%
+2379,RO,Data Entry Technician,Male,1,1%
+2380,RO,Data Input Clerk,Male,2,2%
+2381,RO,Data Management Associate,Female,2,2%
+2382,RO,Data Management Associate,Male,5,5%
+2383,RO,Data Management Information Technology Specialist,Female,1,1%
+2384,RO,Data Management Information Technology Specialist,Male,1,1%
+2385,RO,Data Management Manager,Male,1,1%
+2386,RO,Data Miner,Male,3,3%
+2387,RO,Data Modeler,Male,2,2%
+2388,RO,Data Modeling Specialist,Male,2,2%
+2389,RO,Data Officer,Female,3,3%
+2390,RO,Data Officer,Male,4,4%
+2391,RO,Data Processing Auditor,Female,1,1%
+2392,RO,Data Processing Auditor,Male,2,2%
+2393,RO,Data Processing Consultant,Female,2,2%
+2394,RO,Data Processing Manager,Female,1,1%
+2395,RO,Data Processing Systems Analyst,Male,1,1%
+2396,RO,Data Processing Systems Project Planner,Female,2,2%
+2397,RO,Data Processing Systems Project Planner,Male,5,5%
+2398,RO,Data Processor,Female,1,1%
+2399,RO,Data Processor,Male,1,1%
+2400,RO,Data Sciences Director,Male,1,1%
+2401,RO,Data Security Administrator,Male,3,3%
+2402,RO,Data Security Analyst,Female,2,2%
+2403,RO,Data Security Analyst,Male,3,3%
+2404,RO,Data Storage Specialist,Female,1,1%
+2405,RO,Data Storage Specialist,Male,4,4%
+2406,RO,Data Systems Manager,Female,1,1%
+2407,RO,Data Systems Manager,Male,1,1%
+2408,RO,Data Warehouse Analyst,Female,1,1%
+2409,RO,Data Warehouse Analyst,Male,1,1%
+2410,RO,Data Warehouse Architect,Female,2,2%
+2411,RO,Data Warehouse Developer,Female,1,1%
+2412,RO,Data Warehouse Developer,Male,1,1%
+2413,RO,Data Warehouse Specialist,Female,1,1%
+2414,RO,Data Warehouse Specialist,Male,1,1%
+2415,RO,Data Warehousing Engineer,Female,1,1%
+2416,RO,Data Warehousing Engineer,Male,3,3%
+2417,RO,Data Warehousing Manager,Female,1,1%
+2418,RO,Data Warehousing Manager,Male,2,2%
+2419,RO,Data Warehousing Specialist,Female,1,1%
+2420,RO,Data Warehousing Specialist,Male,2,2%
+2421,RO,Database Administration Associate,Female,2,2%
+2422,RO,Database Administration Associate,Male,1,1%
+2423,RO,Database Administration Manager,Male,2,2%
+2424,RO,Database Analyst,Male,3,3%
+2425,RO,Database Architect,Female,2,2%
+2426,RO,Database Architect,Male,2,2%
+2427,RO,Database Consultant,Female,1,1%
+2428,RO,Database Consultant,Male,6,6%
+2429,RO,Database Design Analyst,Female,1,1%
+2430,RO,Database Design Analyst,Male,1,1%
+2431,RO,Database Designer,Female,1,1%
+2432,RO,Database Designer,Male,2,2%
+2433,RO,Database Development and Administration Project Manager,Female,2,2%
+2434,RO,Database Engineer,Female,1,1%
+2435,RO,Database Engineer,Male,2,2%
+2436,RO,Database Management System Specialist (DBMS Specialist),Male,4,4%
+2437,RO,Database Manager,Female,1,1%
+2438,RO,Database Manager,Male,1,1%
+2439,RO,Database Modeler,Female,1,1%
+2440,RO,Database Programmer,Female,1,1%
+2441,RO,Database Programmer,Male,1,1%
+2442,RO,Database Security Administrator,Male,2,2%
+2443,RO,Database Security Expert,Female,1,1%
+2444,RO,Database Software Technician,Male,1,1%
+2445,RO,Database Specialist,Male,5,5%
+2446,RO,Database Technician,Male,1,1%
+2447,RO,Database Tester,Female,3,3%
+2448,RO,Database Tester,Male,3,3%
+2449,RO,Databases Computer Consultant,Female,3,3%
+2450,RO,Databases Computer Consultant,Male,1,1%
+2451,RO,Databases Software Consultant,Female,2,2%
+2452,RO,Databases Software Consultant,Male,1,1%
+2453,RO,Director of Data Operations,Female,1,1%
+2454,RO,Director of Data Operations,Male,3,3%
+2455,RO,Electronic Data Interchange System Developer (EDI System Developer),Female,1,1%
+2456,RO,Electronic Data Interchange System Developer (EDI System Developer),Male,1,1%
+2457,RO,Electronic Data Processing Auditor (EDP Auditor),Female,1,1%
+2458,RO,Electronic Data Processing Auditor (EDP Auditor),Male,3,3%
+2459,RO,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,1,1%
+2460,RO,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,2,2%
+2461,RO,Field Artillery Automated Tactical Data System Specialist,Male,2,2%
+2462,RO,Field Traffic Data Technician,Male,2,2%
+2463,RO,GPS Field Data Collector (Global Positioning System Field Data Collector),Male,1,1%
+2464,RO,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,1,1%
+2465,RO,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,1,1%
+2466,RO,Geographic Information Systems Data Manager (GIS Data Manager),Female,1,1%
+2467,RO,Geographic Information Systems Data Manager (GIS Data Manager),Male,1,1%
+2468,RO,Geographic Information Systems Data Specialist (GIS Data Specialist),Male,1,1%
+2469,RO,Head of Information Systems and Data Processing,Female,2,2%
+2470,RO,Head of Information Systems and Data Processing,Male,4,4%
+2471,RO,Health Data Analyst,Male,1,1%
+2472,RO,Internet Database Specialist,Male,1,1%
+2473,RO,Marketing Database Analyst,Male,1,1%
+2474,RO,Medical Data Analyst,Male,1,1%
+2475,RO,Micro Computer Data Processor,Female,1,1%
+2476,RO,Naval Tactical Data System--Combat Information Center Officer,Female,1,1%
+2477,RO,Not working,Female,53,55%
+2478,RO,Not working,Male,33,34%
+2479,RO,Oracle Database Administrator (Oracle DBA),Male,2,2%
+2480,RO,Reference Data Expert,Male,2,2%
+2481,RO,SCADA Operator (Supervisory Control and Data Acquisition Operator),Male,1,1%
+2482,RO,SCADA Technician (Supervisory Control and Data Acquisition Technician),Male,1,1%
+2483,RO,SQL Database Administrator,Female,2,2%
+2484,RO,SQL Database Administrator,Male,2,2%
+2485,RO,Voice and Data Technician,Male,1,1%
+2486,SE,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,2,2%
+2487,SE,Automatic Data Processing Planner,Female,1,1%
+2488,SE,Automatic Data Processing Planner,Male,3,3%
+2489,SE,Automatic Data Processing Planner (ADP Planner),Female,2,2%
+2490,SE,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,1,1%
+2491,SE,Clinical Data Management Manager (CDM Manager),Female,1,1%
+2492,SE,Computer or Data Processing Systems Consultant,Female,1,1%
+2493,SE,Computer or Data Processing Systems Consultant,Male,1,1%
+2494,SE,Crime Data Specialist,Male,1,1%
+2495,SE,Data Acquisition Technician,Male,1,1%
+2496,SE,Data Administrator,Male,1,1%
+2497,SE,Data Analysis Assistant,Female,1,1%
+2498,SE,Data Center Operator,Female,1,1%
+2499,SE,Data Coder Operator,Female,1,1%
+2500,SE,Data Coder Operator,Male,1,1%
+2501,SE,Data Collection Technician,Male,1,1%
+2502,SE,Data Communications Analyst,Female,1,1%
+2503,SE,Data Communications Software Consultant,Female,1,1%
+2504,SE,Data Conversion Operator,Female,1,1%
+2505,SE,Data Coordinator,Female,2,2%
+2506,SE,Data Entry Associate,Male,1,1%
+2507,SE,Data Entry Operator,Male,1,1%
+2508,SE,Data Entry Representative,Male,1,1%
+2509,SE,Data Management Information Technology Specialist,Male,1,1%
+2510,SE,Data Modeler,Male,1,1%
+2511,SE,Data Modeling Specialist,Female,1,1%
+2512,SE,Data Officer,Female,2,2%
+2513,SE,Data Processing Manager,Female,2,2%
+2514,SE,Data Processing Manager,Male,1,1%
+2515,SE,Data Reduction Technician,Female,1,1%
+2516,SE,Data Scientist,Female,2,2%
+2517,SE,Data Security Administrator,Female,1,1%
+2518,SE,Data Security Analyst,Male,1,1%
+2519,SE,Data Systems Manager,Male,1,1%
+2520,SE,Data Transcriber,Female,1,1%
+2521,SE,Data Typist,Male,2,2%
+2522,SE,Data Warehouse Analyst,Male,1,1%
+2523,SE,Data Warehouse Architect,Male,1,1%
+2524,SE,Data Warehouse Developer,Male,1,1%
+2525,SE,Data Warehouse Specialist,Female,1,1%
+2526,SE,Data Warehousing Engineer,Female,1,1%
+2527,SE,Data Warehousing Specialist,Female,1,1%
+2528,SE,Database Administration Associate,Male,1,1%
+2529,SE,Database Architect,Female,1,1%
+2530,SE,Database Consultant,Male,1,1%
+2531,SE,Database Coordinator,Female,1,1%
+2532,SE,Database Coordinator,Male,1,1%
+2533,SE,Database Design Analyst,Female,1,1%
+2534,SE,Database Design Analyst,Male,1,1%
+2535,SE,Database Designer,Female,1,1%
+2536,SE,Database Designer,Male,1,1%
+2537,SE,Database Developer,Male,1,1%
+2538,SE,Database Development Project Manager,Male,1,1%
+2539,SE,Database Development and Administration Project Manager,Female,3,3%
+2540,SE,Database Management System Specialist (DBMS Specialist),Female,1,1%
+2541,SE,Database Management System Specialist (DBMS Specialist),Male,1,1%
+2542,SE,Database Manager,Female,1,1%
+2543,SE,Database Manager,Male,1,1%
+2544,SE,Database Marketing Analyst,Female,1,1%
+2545,SE,Database Marketing Analyst,Male,1,1%
+2546,SE,Database Modeler,Male,2,2%
+2547,SE,Database Programmer,Female,1,1%
+2548,SE,Database Security Administrator,Female,1,1%
+2549,SE,Database Security Administrator,Male,2,2%
+2550,SE,Database Software Technician,Female,1,1%
+2551,SE,Database Specialist,Male,2,2%
+2552,SE,Database Tester,Male,1,1%
+2553,SE,Databases Computer Consultant,Male,1,1%
+2554,SE,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Female,1,1%
+2555,SE,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,1,1%
+2556,SE,Geographic Information Systems Data Manager (GIS Data Manager),Male,1,1%
+2557,SE,Geographic Information Systems Data Specialist (GIS Data Specialist),Female,2,2%
+2558,SE,Geographic Information Systems Database Administrator (GIS Database Administrator),Female,2,2%
+2559,SE,Head of Information Systems and Data Processing,Male,1,1%
+2560,SE,Naval Tactical Data System--Combat Information Center Officer,Female,1,1%
+2561,SE,Not working,Female,43,45%
+2562,SE,Not working,Male,38,39%
+2563,SE,Oracle Database Administrator (Oracle DBA),Male,1,1%
+2564,SE,SQL Database Administrator,Male,1,1%
+2565,SE,Survey Data Technician,Male,1,1%
+2566,SI,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Male,1,1%
+2567,SI,Automatic Data Processing Planner,Male,1,1%
+2568,SI,Clinical Data Associate,Male,1,1%
+2569,SI,Data Center Operator,Male,1,1%
+2570,SI,Data Communications Software Consultant,Male,1,1%
+2571,SI,Data Management Information Technology Specialist,Male,1,1%
+2572,SI,Data Processing Auditor,Male,1,1%
+2573,SI,Data Processing Systems Analyst,Female,1,1%
+2574,SI,Data Security Administrator,Female,1,1%
+2575,SI,Data Systems Manager,Male,1,1%
+2576,SI,Data Warehouse Architect,Male,1,1%
+2577,SI,Data Warehousing Manager,Female,1,1%
+2578,SI,Database Administration Manager,Male,1,1%
+2579,SI,Database Developer,Male,1,1%
+2580,SI,Database Modeler,Male,1,1%
+2581,SI,Databases Computer Consultant,Male,1,1%
+2582,SI,"Engineer, System Electronic Data Processing (Engineer, System EDP)",Male,1,1%
+2583,SI,Not working,Female,5,5%
+2584,SI,Not working,Male,6,6%
+2585,SK,Automatic Data Processing Customer Liaison (ADP Customer Liaison),Female,1,1%
+2586,SK,Automatic Data Processing Planner,Male,2,2%
+2587,SK,Automatic Data Processing Planner (ADP Planner),Female,1,1%
+2588,SK,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Female,1,1%
+2589,SK,Automatic Data Processing Systems Security Specialist (ADP Systems Security),Male,3,3%
+2590,SK,Computer or Data Processing Systems Consultant,Female,1,1%
+2591,SK,Computer or Data Processing Systems Consultant,Male,1,1%
+2592,SK,Data Acquisition Technician,Female,1,1%
+2593,SK,Data Administrator,Male,2,2%
+2594,SK,Data Base Design Analyst,Male,1,1%
+2595,SK,Data Capture Specialist,Male,1,1%
+2596,SK,Data Communications Analyst,Female,1,1%
+2597,SK,Data Conversion Operator,Female,1,1%
+2598,SK,Data Management Associate,Female,1,1%
+2599,SK,Data Management Associate,Male,1,1%
+2600,SK,Data Management Information Technology Specialist,Female,1,1%
+2601,SK,Data Officer,Male,2,2%
+2602,SK,Data Operations Director,Male,1,1%
+2603,SK,Data Processing Auditor,Female,2,2%
+2604,SK,Data Processing Auditor,Male,1,1%
+2605,SK,Data Processing Consultant,Male,1,1%
+2606,SK,Data Processing Manager,Female,1,1%
+2607,SK,Data Processing Systems Analyst,Male,1,1%
+2608,SK,Data Processing Systems Project Planner,Female,1,1%
+2609,SK,Data Processing Systems Project Planner,Male,1,1%
+2610,SK,Data Reviewer,Female,1,1%
+2611,SK,Data Scientist,Female,1,1%
+2612,SK,Data Scientist,Male,2,2%
+2613,SK,Data Security Analyst,Female,2,2%
+2614,SK,Data Security Analyst,Male,1,1%
+2615,SK,Data Systems Manager,Female,1,1%
+2616,SK,Data Transcriber,Male,1,1%
+2617,SK,Data Warehouse Analyst,Female,1,1%
+2618,SK,Data Warehouse Developer,Female,1,1%
+2619,SK,Data Warehouse Specialist,Female,1,1%
+2620,SK,Data Warehousing Engineer,Female,1,1%
+2621,SK,Data Warehousing Manager,Male,1,1%
+2622,SK,Data Warehousing Specialist,Male,1,1%
+2623,SK,Database Consultant,Male,1,1%
+2624,SK,Database Engineer,Male,1,1%
+2625,SK,Database Management System Specialist (DBMS Specialist),Female,2,2%
+2626,SK,Database Manager,Female,1,1%
+2627,SK,Database Manager,Male,2,2%
+2628,SK,Database Security Administrator,Male,1,1%
+2629,SK,Database Specialist,Male,1,1%
+2630,SK,Database Tester,Male,1,1%
+2631,SK,Databases Computer Consultant,Male,1,1%
+2632,SK,Databases Software Consultant,Male,1,1%
+2633,SK,Flight Data Technician,Male,1,1%
+2634,SK,Geographic Information Systems Data Administrator (GIS Data Administrator),Female,1,1%
+2635,SK,Geographic Information Systems Data Administrator (GIS Data Administrator),Male,2,2%
+2636,SK,Geographic Information Systems Data Manager (GIS Data Manager),Male,1,1%
+2637,SK,Internet Database Specialist,Male,1,1%
+2638,SK,Not working,Female,13,13%
+2639,SK,Not working,Male,16,17%
