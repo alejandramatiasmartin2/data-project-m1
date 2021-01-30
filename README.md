@@ -1,4 +1,29 @@
-# Data project module 1
+
+### Data project Module 1
+# Country Job analysis 
+
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+
+## Alejandra Matías Martín
+
+Bootcamp: Ironhack - Data Analytics Part Time Nov 2020
+
+Data project Module 1
+---
+
+
+
+## Datasources
+
+There are 3 different datasources involved:
+
+- <strong>Tables (.db): </strong> the main dataset.
+
+- <strong>API:</strong> from the Open Skilss Project <http://dataatwork.org/data/>.
+
+- <strong>Web Scraping: </strong> It is required to retrieve information about country codes from Eurostat website <https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes>
+
+
 ## Instructions
 Data project module 1
 In this project we are going to create a Data Pipeline that retrieves the following table:
@@ -8,22 +33,43 @@ In this project we are going to create a Data Pipeline that retrieves the follow
 | Spain         | Data Scientist | Female | 25       | 5%         | 
 | Spain         | Data Scientist | Male   | 25       | 5%         |
 
-
-## Datasources
-
-There are 3 different datasources involved:
-
-Tables (.db). Here you can find the .db file with the main dataset.
-
-API. We will use the API from the Open Skills Project.
-
-Web Scraping. Finally, we will need to retrieve information about country codes from Eurostat website.
+### :computer: **Technology stack**
+Python, Pandas, Scipy, Scikit-learn, etc. Indicate the technological nature of the software, including primary programming language(s), main libraries and whether the software is intended as standalone or as a module in a framework or other ecosystem.
 
 
-## Requirements
+## :file_folder: Folder structure
+```
+└── project
+    ├── __trash__
+    ├── .gitignore
+    ├── .env
+    ├── requirements.txt
+    ├── README.md
+    ├── main_script.py
+    ├── notebooks
+    │   ├── cleaning_raw.ipynb
+    |
+    ├── p_acquisition
+    │   ├── m_acquisition.py
+    │   └── __init__.py
+    |── p_wrangling
+    |    ├── m_wrangling.py
+    |    ├── __init__.py
+    |   
+    ├── p_analysis
+    │   ├── m_analysis.py
+    │   └── __init__-py
+    ├── p_reporting
+    │   ├── m_analysis.py
+    │   └── __init__.py
+    |__ results
+    └── data
+        ├── raw
+        ├── processed
+        └── results
 
-It must be contained in a GitHub repository which includes a README file that explains the aim and content of your code. You may follow the structure suggested here.
+## :love_letter: Contact
+> Email: <alejandramatias32@gmail.com>
+> Teléfono: 626118167
 
-It must create, at least, a .csv file including the requested table. Alternatively, you may create an image, pdf, plot or any other output format that you may find convenient. You may also send your output by e-mail, upload it to a cloud repository, etc.
 
-It must provide, at least, two options for the final user to select when executing: (1) To get the table for every country included in the dataset, (2) To get the table for a specific country imputed by the user.
