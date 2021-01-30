@@ -57,15 +57,14 @@ ___
     ├── __trash__
     ├── .gitignore
     ├── .env
-    ├── requirements.txt
     ├── README.md
     ├── main_script.py
-    ├── notebooks
-    │   ├── cleaning_raw.ipynb
+    ├── cleaning_raw.ipynb
     |
     ├── p_acquisition
     │   ├── m_acquisition.py
     │   └── __init__.py
+    |
     |── p_wrangling
     |    ├── m_wrangling.py
     |    ├── __init__.py
