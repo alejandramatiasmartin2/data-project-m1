@@ -1,6 +1,31 @@
-# Data project module 1
-## Instructions
-Data project module 1
+
+### Data project Module 1
+# Country Job analysis 
+
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
+
+## Alejandra Matías Martín
+
+Bootcamp: Ironhack - Data Analytics Part Time Nov 2020
+
+Data project Module 1
+---
+
+	![map](iworkoverseaspost1-1.jpg)
+
+## Datasources
+
+There are 3 different datasources involved:
+
+- <strong>Tables (.db): </strong> the main dataset.
+
+- <strong>API:</strong> from the Open Skilss Project <http://dataatwork.org/data/>.
+
+- <strong>Web Scraping: </strong> It is required to retrieve information about country codes from Eurostat website <https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes>
+
+
+## :clipboard: Instructions
+
 In this project we are going to create a Data Pipeline that retrieves the following table:
 
 | Country       | Job Title      | Gender | Quantity | Percentage |
@@ -8,22 +33,61 @@ In this project we are going to create a Data Pipeline that retrieves the follow
 | Spain         | Data Scientist | Female | 25       | 5%         | 
 | Spain         | Data Scientist | Male   | 25       | 5%         |
 
+In order to achieve this, we are going to follow these steps: 
+- [x] Create repository
+- [x] README.md
+- [x] Connection to database (.db)
+- [x] Cleaning data
+- [x] Connection to API
+- [x] Web scrapping
+- [x] Merge dataframes
+- [ ] Provide two options to the final user to select when executing: get the table of all countries/specify one.
+- [ ] Create csv files containing the dataframes
+___
+### :computer: **Technology stack**
+- Python
+- Pandas
+- Sqlalchemy
+- BeautifulSoup
 
-## Datasources
 
-There are 3 different datasources involved:
+## :file_folder: Folder structure
+```
+└── project
+    ├── __trash__
+    ├── .gitignore
+    ├── .env
+    ├── requirements.txt
+    ├── README.md
+    ├── main_script.py
+    ├── notebooks
+    │   ├── cleaning_raw.ipynb
+    |
+    ├── p_acquisition
+    │   ├── m_acquisition.py
+    │   └── __init__.py
+    |── p_wrangling
+    |    ├── m_wrangling.py
+    |    ├── __init__.py
+    |   
+    ├── p_analysis
+    │   ├── m_analysis.py
+    │   └── __init__-py
+    ├── p_reporting
+    │   ├── m_analysis.py
+    │   └── __init__.py
+    |__ results
+    |
+    └── data
+        ├── raw
+        ├── processed
+    
+```
+	
+---
 
-Tables (.db). Here you can find the .db file with the main dataset.
-
-API. We will use the API from the Open Skills Project.
-
-Web Scraping. Finally, we will need to retrieve information about country codes from Eurostat website.
+## :love_letter: Contact
+> Email: <alejandramatias32@gmail.com>
+> Teléfono: 626118167
 
 
-## Requirements
-
-It must be contained in a GitHub repository which includes a README file that explains the aim and content of your code. You may follow the structure suggested here.
-
-It must create, at least, a .csv file including the requested table. Alternatively, you may create an image, pdf, plot or any other output format that you may find convenient. You may also send your output by e-mail, upload it to a cloud repository, etc.
-
-It must provide, at least, two options for the final user to select when executing: (1) To get the table for every country included in the dataset, (2) To get the table for a specific country imputed by the user.
