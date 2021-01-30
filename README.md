@@ -24,8 +24,8 @@ There are 3 different datasources involved:
 - <strong>Web Scraping: </strong> It is required to retrieve information about country codes from Eurostat website <https://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Country_codes>
 
 
-## Instructions
-Data project module 1
+## :clipboard: Instructions
+
 In this project we are going to create a Data Pipeline that retrieves the following table:
 
 | Country       | Job Title      | Gender | Quantity | Percentage |
@@ -33,16 +33,26 @@ In this project we are going to create a Data Pipeline that retrieves the follow
 | Spain         | Data Scientist | Female | 25       | 5%         | 
 | Spain         | Data Scientist | Male   | 25       | 5%         |
 
+In order to achieve this, we are going to follow these steps: 
+- [x] Create repository
+- [x] README.md
+- [x] Connection to database (.db)
+- [x] Cleaning data
+- [x] Connection to API
+- [x] Web scrapping
+- [x] Merge dataframes
+- [ ] Provide two options to the final user to select when executing: get the table of all countries/specify one.
+- [ ] Create csv files containing the dataframes
+___
 ### :computer: **Technology stack**
-Python
-Pandas
-Sqlalchemy
-BeautifulSoup
-
-
+- Python
+- Pandas
+- Sqlalchemy
+- BeautifulSoup
 
 
 ## :file_folder: Folder structure
+```
 └── project
     ├── __trash__
     ├── .gitignore
@@ -67,10 +77,13 @@ BeautifulSoup
     │   ├── m_analysis.py
     │   └── __init__.py
     |__ results
+    |
     └── data
         ├── raw
         ├── processed
-        └── results
+    
+```
+	
 ---
 
 ## :love_letter: Contact
