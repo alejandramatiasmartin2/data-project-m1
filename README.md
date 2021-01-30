@@ -34,7 +34,12 @@ In this project we are going to create a Data Pipeline that retrieves the follow
 | Spain         | Data Scientist | Male   | 25       | 5%         |
 
 ### :computer: **Technology stack**
-Python, Pandas, Scipy, Scikit-learn, etc. Indicate the technological nature of the software, including primary programming language(s), main libraries and whether the software is intended as standalone or as a module in a framework or other ecosystem.
+Python
+Pandas
+Sqlalchemy
+BeautifulSoup
+
+
 
 
 ## :file_folder: Folder structure
